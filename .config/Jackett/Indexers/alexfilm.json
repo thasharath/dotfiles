@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://alexfilm.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "al_org_data=deleted; al_org_t=deleted; al_org_f=deleted"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "o2ymandias"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8EMIipkImWFEm38mCCNGNaeTtC7NZZjxWCjFr0U_-_x61lhPKdNgh8ck14W9a-P4aqp9WX3I-jWG6-ZlmYf4iGyKo2sgKl5HPmCegBVajN27k8auMFXPERwmnge3Q_GsqQ"
+  },
+  {
+    "id": "striprussianletters",
+    "type": "inputbool",
+    "name": "Strip Russian Letters",
+    "value": false
+  }
+]

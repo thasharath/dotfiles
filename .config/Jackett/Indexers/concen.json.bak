@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://concen.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "apbct_timestamp=1580454930; apbct_cookies_test=%7B%22cookies_names%22%3A%5B%22apbct_timestamp%22%5D%2C%22check_value%22%3A%22e26a34ad0970fd1c4d56c4b9355c54f5%22%7D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  }
+]

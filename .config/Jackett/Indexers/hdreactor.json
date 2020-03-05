@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://hdreactor.net/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__ddg1=557678FE43C0DA1BD5A13B87D2F44862CDBC1E9E; PHPSESID=b4bc33b1537b56a7f5f1e70f9ad; PHPSESSID=eg0cn1m61kevt30ni8dl7veqp1; dle_user_id=deleted; dle_password=deleted; dle_hash=deleted"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "striprussianletters",
+    "type": "inputbool",
+    "name": "Strip Russian Letters",
+    "value": false
+  }
+]

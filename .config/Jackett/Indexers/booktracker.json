@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://booktracker.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "bb_test=1239261472"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "o2ymandias"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8ER_XCuELZxFg2PpXm1-6-cnjiLLaWTQXca_Wdp-Hb6Q1B63HwkT-eJPQNB_vwxdSvfa2GoV1P65tym-xnGZD4EEuuYhfYmtdckwsfV313B5wps2Ym40iAVHuXFvuPMTudeItUQx0yjmkvFpZQ1XVRU"
+  }
+]

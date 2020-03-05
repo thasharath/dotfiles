@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "http://bitru.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": ""
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "includeadvertising",
+    "type": "inputselect",
+    "name": "Include Advertising",
+    "value": "yes",
+    "options": {
+      "yes": "yes",
+      "no": "no"
+    }
+  }
+]

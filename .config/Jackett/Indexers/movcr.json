@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://movcr.to/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d39cbdf79b1ae62a881163de4d634d06a1575637945; PHPSESSID=8djr659btvubfrpfid4rtcf576; _mcnc=1; uid=UREWCF3qU7tD/mNfTNCJAg=="
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  }
+]

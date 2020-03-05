@@ -1,0 +1,1269 @@
+2020-03-05 11:20:05.2931 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/1337x.yml 
+2020-03-05 11:20:05.4230 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trezzor.yml 
+2020-03-05 11:20:05.4604 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bit-titan.yml 
+2020-03-05 11:20:05.5115 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdturk.yml 
+2020-03-05 11:20:05.5651 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/majomparade.yml 
+2020-03-05 11:20:05.5961 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupmain.yml 
+2020-03-05 11:20:05.6098 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentbd.yml 
+2020-03-05 11:20:05.6407 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/downloadville.yml 
+2020-03-05 11:20:05.6789 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/blutopia.yml 
+2020-03-05 11:20:05.6976 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/myspleen.yml 
+2020-03-05 11:20:05.7175 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underverse.yml 
+2020-03-05 11:20:05.9130 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggcookie.yml 
+2020-03-05 11:20:05.9941 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/r3vwtf.yml 
+2020-03-05 11:20:06.0523 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xtremezone.yml 
+2020-03-05 11:20:06.0958 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/insanetracker.yml 
+2020-03-05 11:20:06.1245 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xbytes2.yml 
+2020-03-05 11:20:06.1480 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estone.yml 
+2020-03-05 11:20:06.1774 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theplace.yml 
+2020-03-05 11:20:06.2045 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd-net.yml 
+2020-03-05 11:20:06.2492 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/documentarytorrents.yml 
+2020-03-05 11:20:06.2827 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ccfbits.yml 
+2020-03-05 11:20:06.3096 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pthome.yml 
+2020-03-05 11:20:06.3309 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/freetorrent.yml 
+2020-03-05 11:20:06.3683 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/leporno.yml 
+2020-03-05 11:20:06.3765 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaasi.yml 
+2020-03-05 11:20:06.4194 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamos.yml 
+2020-03-05 11:20:06.4655 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shokweb.yml 
+2020-03-05 11:20:06.4761 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/skytorrentsclone.yml 
+2020-03-05 11:20:06.4866 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greekteam.yml 
+2020-03-05 11:20:06.5206 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdzone.yml 
+2020-03-05 11:20:06.5974 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/polishsource.yml 
+2020-03-05 11:20:06.6231 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/jpopsuki.yml 
+2020-03-05 11:20:06.6516 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/4thd.yml 
+2020-03-05 11:20:06.7024 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/baibako.yml 
+2020-03-05 11:20:06.7359 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd.yml 
+2020-03-05 11:20:06.7505 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/amigosshare.yml 
+2020-03-05 11:20:06.7917 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thetorrents.yml 
+2020-03-05 11:20:06.8245 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaroblu.yml 
+2020-03-05 11:20:06.8508 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/monova.yml 
+2020-03-05 11:20:06.8608 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pwtorrents.yml 
+2020-03-05 11:20:06.8901 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/beyond-hd.yml 
+2020-03-05 11:20:06.9052 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bithumen.yml 
+2020-03-05 11:20:06.9281 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sdbits.yml 
+2020-03-05 11:20:06.9506 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metaltracker.yml 
+2020-03-05 11:20:06.9663 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentslocal.yml 
+2020-03-05 11:20:07.2495 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kickasstorrent.yml 
+2020-03-05 11:20:07.3062 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbit.yml 
+2020-03-05 11:20:07.5564 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mononokebt.yml 
+2020-03-05 11:20:07.5653 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/funkytorrents.yml 
+2020-03-05 11:20:07.6595 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtower.yml 
+2020-03-05 11:20:07.7724 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/divteam.yml 
+2020-03-05 11:20:07.8089 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asgaard.yml 
+2020-03-05 11:20:07.8589 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenepalace.yml 
+2020-03-05 11:20:07.9217 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/wihd.yml 
+2020-03-05 11:20:08.0205 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentccf.yml 
+2020-03-05 11:20:08.0945 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/femdomcult.yml 
+2020-03-05 11:20:08.1185 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ethor.yml 
+2020-03-05 11:20:08.1554 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdarea.yml 
+2020-03-05 11:20:08.1914 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fullmixmusic.yml 
+2020-03-05 11:20:08.2695 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/takeabyte.yml 
+2020-03-05 11:20:08.3518 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3dtorrents.yml 
+2020-03-05 11:20:08.3797 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/itorrent.yml 
+2020-03-05 11:20:08.3875 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trancetraffic.yml 
+2020-03-05 11:20:08.3933 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tvchaosuk.yml 
+2020-03-05 11:20:08.4491 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/booktracker.yml 
+2020-03-05 11:20:08.4741 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/proaudiotorrents.yml 
+2020-03-05 11:20:08.5017 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/focusx.yml 
+2020-03-05 11:20:08.5523 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/awesomehd.yml 
+2020-03-05 11:20:08.5614 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdforever.yml 
+2020-03-05 11:20:08.6700 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/empornium.yml 
+2020-03-05 11:20:08.7210 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbitscom.yml 
+2020-03-05 11:20:08.7891 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/totheglory.yml 
+2020-03-05 11:20:08.9164 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torviet.yml 
+2020-03-05 11:20:08.9753 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/girotorrent.yml 
+2020-03-05 11:20:09.0178 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casstudiotv.yml 
+2020-03-05 11:20:09.1719 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/lesaloon.yml 
+2020-03-05 11:20:09.2162 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentwal.yml 
+2020-03-05 11:20:09.2515 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/generationfree.yml 
+2020-03-05 11:20:09.2946 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/spacetorrent.yml 
+2020-03-05 11:20:09.3170 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/themoviecave.yml 
+2020-03-05 11:20:09.3609 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/frozenlayer.yml 
+2020-03-05 11:20:09.4080 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gamestorrents.yml 
+2020-03-05 11:20:09.4143 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentseeds.yml 
+2020-03-05 11:20:09.4808 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hush.yml 
+2020-03-05 11:20:09.5171 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pixelcove.yml 
+2020-03-05 11:20:09.6145 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/idope.yml 
+2020-03-05 11:20:09.6461 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ptfiles.yml 
+2020-03-05 11:20:09.6864 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thehorrorcharnel.yml 
+2020-03-05 11:20:09.7034 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebeinyaasi.yml 
+2020-03-05 11:20:09.7727 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tellytorrent.yml 
+2020-03-05 11:20:09.8328 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elitetorrent-biz.yml 
+2020-03-05 11:20:09.8573 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebookparadijs.yml 
+2020-03-05 11:20:09.9145 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cartoonchaos.yml 
+2020-03-05 11:20:09.9403 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/waffles.yml 
+2020-03-05 11:20:09.9969 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shareisland.yml 
+2020-03-05 11:20:10.0614 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pt99.yml 
+2020-03-05 11:20:10.0859 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dmhy.yml 
+2020-03-05 11:20:10.1177 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/backups.yml 
+2020-03-05 11:20:10.1550 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/twilight.yml 
+2020-03-05 11:20:10.1838 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpabien.yml 
+2020-03-05 11:20:10.2191 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyhd.yml 
+2020-03-05 11:20:10.2907 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gaytorrentru.yml 
+2020-03-05 11:20:10.3248 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nethd.yml 
+2020-03-05 11:20:10.3507 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tribalmixes.yml 
+2020-03-05 11:20:10.3835 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/losslessclub.yml 
+2020-03-05 11:20:10.4015 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gktorrent.yml 
+2020-03-05 11:20:10.4318 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alein.yml 
+2020-03-05 11:20:10.4665 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tasmanit.yml 
+2020-03-05 11:20:10.5042 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ztracker.yml 
+2020-03-05 11:20:10.5350 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tokyotosho.yml 
+2020-03-05 11:20:10.5987 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaronero.yml 
+2020-03-05 11:20:10.6208 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/solidtorrents.yml 
+2020-03-05 11:20:10.6303 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharewood.yml 
+2020-03-05 11:20:10.6731 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentfunk.yml 
+2020-03-05 11:20:10.7343 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yourbittorrent.yml 
+2020-03-05 11:20:10.7428 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitturk.yml 
+2020-03-05 11:20:10.8156 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hamsterstudio.yml 
+2020-03-05 11:20:10.9434 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thevault.yml 
+2020-03-05 11:20:10.9955 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebooks-shares.yml 
+2020-03-05 11:20:11.1875 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/speedtorrentreloaded.yml 
+2020-03-05 11:20:11.2191 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tapochek.yml 
+2020-03-05 11:20:11.3732 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/world-of-tomorrow.yml 
+2020-03-05 11:20:11.4150 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdhome.yml 
+2020-03-05 11:20:11.4534 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ettv.yml 
+2020-03-05 11:20:11.4807 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3evils.yml 
+2020-03-05 11:20:11.5104 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenting.yml 
+2020-03-05 11:20:11.5312 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thegeeks.yml 
+2020-03-05 11:20:11.5710 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/magnetdl.yml 
+2020-03-05 11:20:11.5833 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdsky.yml 
+2020-03-05 11:20:11.6484 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rgu.yml 
+2020-03-05 11:20:11.7153 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/peersfm.yml 
+2020-03-05 11:20:11.7446 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobookbay.yml 
+2020-03-05 11:20:11.8265 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/prostylex.yml 
+2020-03-05 11:20:11.8719 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gigatorrents.yml 
+2020-03-05 11:20:11.9140 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/music-master.yml 
+2020-03-05 11:20:11.9274 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acgsou.yml 
+2020-03-05 11:20:12.0007 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alexfilm.yml 
+2020-03-05 11:20:12.0975 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cinematik.yml 
+2020-03-05 11:20:12.1828 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/unionfansub.yml 
+2020-03-05 11:20:12.2298 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtorrent.yml 
+2020-03-05 11:20:12.2844 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bluebird.yml 
+2020-03-05 11:20:12.3047 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/eniahd.yml 
+2020-03-05 11:20:12.3892 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamhd.yml 
+2020-03-05 11:20:12.4277 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdchina.yml 
+2020-03-05 11:20:12.4930 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kapaki.yml 
+2020-03-05 11:20:12.5479 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/netlab.yml 
+2020-03-05 11:20:12.5772 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentproject2.yml 
+2020-03-05 11:20:12.6261 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/libranet.yml 
+2020-03-05 11:20:12.6611 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiandvdclub.yml 
+2020-03-05 11:20:12.7139 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vanila.yml 
+2020-03-05 11:20:13.4032 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/deildu.yml 
+2020-03-05 11:20:13.4370 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudio.yml 
+2020-03-05 11:20:13.4645 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharespacedb.yml 
+2020-03-05 11:20:13.5266 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audionews.yml 
+2020-03-05 11:20:13.6882 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casatorrent.yml 
+2020-03-05 11:20:13.7351 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/passionetorrent.yml 
+2020-03-05 11:20:13.8033 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent-turk.yml 
+2020-03-05 11:20:13.8401 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggtorrent.yml 
+2020-03-05 11:20:13.8971 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/exttorrents.yml 
+2020-03-05 11:20:13.9042 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/channelx.yml 
+2020-03-05 11:20:13.9214 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mactorrents.yml 
+2020-03-05 11:20:13.9285 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentland.yml 
+2020-03-05 11:20:13.9522 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/marinetracker.yml 
+2020-03-05 11:20:13.9846 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupforum.yml 
+2020-03-05 11:20:13.9985 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobooktorrents.yml 
+2020-03-05 11:20:14.0195 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btschool.yml 
+2020-03-05 11:20:14.0527 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdspain.yml 
+2020-03-05 11:20:14.1079 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nostalgic.yml 
+2020-03-05 11:20:14.1453 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/diablotorrent.yml 
+2020-03-05 11:20:14.1709 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/demonoid.yml 
+2020-03-05 11:20:14.2462 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/immortuos.yml 
+2020-03-05 11:20:14.2912 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desireleasers.yml 
+2020-03-05 11:20:14.3393 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thepiratebay.yml 
+2020-03-05 11:20:14.3810 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/inperil.yml 
+2020-03-05 11:20:14.4069 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btgigs.yml 
+2020-03-05 11:20:14.4321 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpasbienclone.yml 
+2020-03-05 11:20:14.4592 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/uhdbits.yml 
+2020-03-05 11:20:14.4944 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbits.yml 
+2020-03-05 11:20:14.5106 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaa-pantsu.yml 
+2020-03-05 11:20:14.5480 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gfxpeers.yml 
+2020-03-05 11:20:14.5639 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentgalaxyorg.yml 
+2020-03-05 11:20:14.5941 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theshow.yml 
+2020-03-05 11:20:14.6286 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fanoin.yml 
+2020-03-05 11:20:14.6690 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/soundpark.yml 
+2020-03-05 11:20:14.6943 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/learnflakes.yml 
+2020-03-05 11:20:14.7232 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyspirits.yml 
+2020-03-05 11:20:14.7541 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rodvd.yml 
+2020-03-05 11:20:14.7775 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/siambit.yml 
+2020-03-05 11:20:14.8057 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gay-torrentsorg.yml 
+2020-03-05 11:20:14.8292 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudiol.yml 
+2020-03-05 11:20:14.8661 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crnaberza.yml 
+2020-03-05 11:20:14.8926 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metal-iplay-ro.yml 
+2020-03-05 11:20:14.9154 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elittracker.yml 
+2020-03-05 11:20:14.9756 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pleasuredome.yml 
+2020-03-05 11:20:15.0035 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ourbits.yml 
+2020-03-05 11:20:15.0140 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vizuk.yml 
+2020-03-05 11:20:15.0662 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nnm-club.yml 
+2020-03-05 11:20:15.3236 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tfile.yml 
+2020-03-05 11:20:15.8174 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kinozal.yml 
+2020-03-05 11:20:15.8731 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/linkomanija.yml 
+2020-03-05 11:20:15.9015 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebei-pantsu.yml 
+2020-03-05 11:20:15.9236 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/limetorrents.yml 
+2020-03-05 11:20:15.9509 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theempire.yml 
+2020-03-05 11:20:15.9813 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/esharenet.yml 
+2020-03-05 11:20:16.0152 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/glodls.yml 
+2020-03-05 11:20:16.0634 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dragonworldreloaded.yml 
+2020-03-05 11:20:16.1780 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiancinema.yml 
+2020-03-05 11:20:16.2192 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigfangroup.yml 
+2020-03-05 11:20:16.2707 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenefz.yml 
+2020-03-05 11:20:16.3096 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentquest.yml 
+2020-03-05 11:20:16.3162 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenthr.yml 
+2020-03-05 11:20:16.3403 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hachede.yml 
+2020-03-05 11:20:16.3659 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/turktorrent.yml 
+2020-03-05 11:20:16.3948 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/2fast4you.yml 
+2020-03-05 11:20:16.4325 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent9clone.yml 
+2020-03-05 11:20:16.4602 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdme.yml 
+2020-03-05 11:20:16.4877 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dark-shadow.yml 
+2020-03-05 11:20:16.5198 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/racingforme.yml 
+2020-03-05 11:20:16.5640 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenerush.yml 
+2020-03-05 11:20:16.6043 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acidlounge.yml 
+2020-03-05 11:20:16.6336 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hddolby.yml 
+2020-03-05 11:20:16.7021 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/arenabg.yml 
+2020-03-05 11:20:16.7455 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/chdbits.yml 
+2020-03-05 11:20:16.7887 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitme.yml 
+2020-03-05 11:20:16.8100 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hqsource.yml 
+2020-03-05 11:20:16.8341 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desitorrents.yml 
+2020-03-05 11:20:16.9018 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownloads.yml 
+2020-03-05 11:20:16.9227 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitru.yml 
+2020-03-05 11:20:16.9536 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bittorrentam.yml 
+2020-03-05 11:20:16.9775 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btetree.yml 
+2020-03-05 11:20:16.9890 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dxp.yml 
+2020-03-05 11:20:17.0323 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estrenosdtl.yml 
+2020-03-05 11:20:17.0394 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/firebit.yml 
+2020-03-05 11:20:17.0799 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greeklegends.yml 
+2020-03-05 11:20:17.1181 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/legittorrents.yml 
+2020-03-05 11:20:17.1496 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/moviesdvdr.yml 
+2020-03-05 11:20:17.1628 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nntt.yml 
+2020-03-05 11:20:17.3903 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbitl.yml 
+2020-03-05 11:20:17.7478 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/riperam.yml 
+2020-03-05 11:20:18.4013 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rus-media.yml 
+2020-03-05 11:20:18.5786 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownload.yml 
+2020-03-05 11:20:18.5863 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentparadise.yml 
+2020-03-05 11:20:18.6367 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underversel.yml 
+2020-03-05 11:20:19.0143 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hd4fans.yml 
+2020-03-05 11:20:19.0473 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdroute.yml 
+2020-03-05 11:20:19.0866 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdu.yml 
+2020-03-05 11:20:19.1192 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/springsunday.yml 
+2020-03-05 11:20:19.1571 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/toros.yml 
+2020-03-05 11:20:19.1869 Info Adding aggregate indexer 
+2020-03-05 11:25:29.5903 Error On attempt 1 checking for results from YTS: Network is unreachable 
+2020-03-05 11:25:33.2222 Error On attempt 2 checking for results from YTS: Network is unreachable 
+2020-03-05 11:25:34.6954 Error Error on 20200305112534 for KickAssTorrent (kat.li).txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://kickass.ws/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:25:37.7562 Error On attempt 3 checking for results from YTS: Network is unreachable 
+2020-03-05 11:25:45.4146 Error Error on 20200305112545 for Il Corsaro Nero.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://ilcorsaronero.pw/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:25:47.0632 Error Error on 20200305112547 for EliteTorrent.biz.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://www.elitetorrent.nl/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:26:07.7924 Info Found 121 releases from AggregateSearch for: portrait lady on fire 2019 
+2020-03-05 11:31:14.5530 Error On attempt 1 checking for results from YTS: Network is unreachable 
+2020-03-05 11:31:16.3308 Error Error on 20200305113116 for KickAssTorrent (kat.li).txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://kickass.ws/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:31:16.4077 Error Error on 20200305113116 for EliteTorrent.biz.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://www.elitetorrent.nl/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:31:16.6183 Error On attempt 2 checking for results from YTS: Network is unreachable 
+2020-03-05 11:31:17.4624 Error Error on 20200305113117 for Il Corsaro Nero.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://ilcorsaronero.pw/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 11:31:19.0478 Error On attempt 3 checking for results from YTS: Network is unreachable 
+2020-03-05 11:31:45.1326 Info Found 469 releases from AggregateSearch for: uncut gems 2019 
+2020-03-05 13:53:16.4715 Info Starting Jackett v0.12.1099.0 
+2020-03-05 13:53:22.8387 Info Environment version: 3.0.1 (/home/thasharath/Documents/Jackett/) 
+2020-03-05 13:53:22.8422 Info OS version: Unix 5.3.0.40 (64bit OS) (64bit process) 
+2020-03-05 13:53:22.8422 Info Jackett variant: CoreLinuxAmdx64 
+2020-03-05 13:53:22.8462 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2020-03-05 13:53:22.8462 Info App config/log directory: /home/thasharath/.config/Jackett 
+2020-03-05 13:53:22.8462 Info issue: Ubuntu 18.04.4 LTS \n \l 
+2020-03-05 13:53:22.8747 Info Using HTTP Client: HttpWebClient2NetCore 
+2020-03-05 13:53:24.2534 Info Loading Cardigann definitions from: /home/thasharath/.config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /home/thasharath/Documents/Jackett/Definitions 
+2020-03-05 13:53:24.4133 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shellife.yml 
+2020-03-05 13:53:24.9134 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cinemageddon.yml 
+2020-03-05 13:53:24.9616 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/arabafenice.yml 
+2020-03-05 13:53:25.0589 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btdigg.yml 
+2020-03-05 13:53:25.0727 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torlock.yml 
+2020-03-05 13:53:25.1075 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/datascene.yml 
+2020-03-05 13:53:25.1785 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btnext.yml 
+2020-03-05 13:53:25.2893 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/concen.yml 
+2020-03-05 13:53:25.3044 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/anirena.yml 
+2020-03-05 13:53:25.3550 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/racing4everyone.yml 
+2020-03-05 13:53:25.6198 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zelkaorg.yml 
+2020-03-05 13:53:25.6825 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/totallykids.yml 
+2020-03-05 13:53:25.7167 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yourexotic.yml 
+2020-03-05 13:53:25.7305 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theaudioscene.yml 
+2020-03-05 13:53:25.7550 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dxdhd.yml 
+2020-03-05 13:53:25.7952 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/retroflix.yml 
+2020-03-05 13:53:25.8347 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/seedfile.yml 
+2020-03-05 13:53:25.8708 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/puntotorrent.yml 
+2020-03-05 13:53:25.9377 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/aftershock.yml 
+2020-03-05 13:53:25.9838 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/DasUnerwartete.yml 
+2020-03-05 13:53:26.0334 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btdb.yml 
+2020-03-05 13:53:26.0726 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xwtorrents.yml 
+2020-03-05 13:53:26.1786 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theoccult.yml 
+2020-03-05 13:53:26.2345 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newretro.yml 
+2020-03-05 13:53:26.2770 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/carpathians.yml 
+2020-03-05 13:53:26.3028 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdcity.yml 
+2020-03-05 13:53:26.3767 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shareuniversity.yml 
+2020-03-05 13:53:26.4081 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/icetorrent.yml 
+2020-03-05 13:53:26.4482 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/p2pbg.yml 
+2020-03-05 13:53:26.4932 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sktorrent.yml 
+2020-03-05 13:53:26.5368 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mteamtp.yml 
+2020-03-05 13:53:26.5716 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kickasstorrent-kathow.yml 
+2020-03-05 13:53:26.6150 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdreactor.yml 
+2020-03-05 13:53:26.6553 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bithorlo.yml 
+2020-03-05 13:53:26.6950 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gay-torrents.yml 
+2020-03-05 13:53:26.7392 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/magico.yml 
+2020-03-05 13:53:26.7910 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/efectodoppler.yml 
+2020-03-05 13:53:26.8136 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theshinning.yml 
+2020-03-05 13:53:26.8485 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cztorrent.yml 
+2020-03-05 13:53:26.8804 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nbtorrents.yml 
+2020-03-05 13:53:26.9203 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ast4u.yml 
+2020-03-05 13:53:26.9631 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/galeriens.yml 
+2020-03-05 13:53:27.0733 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xtremefile.yml 
+2020-03-05 13:53:27.1227 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/concertos.yml 
+2020-03-05 13:53:27.1496 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tenyardtracker.yml 
+2020-03-05 13:53:27.1674 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nitro.yml 
+2020-03-05 13:53:27.2015 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acgrip.yml 
+2020-03-05 13:53:27.2262 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zooqle.yml 
+2020-03-05 13:53:27.2424 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdtorrentsit.yml 
+2020-03-05 13:53:27.2783 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/anidex.yml 
+2020-03-05 13:53:27.3478 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/uniongang.yml 
+2020-03-05 13:53:27.3888 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/movcr.yml 
+2020-03-05 13:53:27.4022 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rockbox.yml 
+2020-03-05 13:53:27.4213 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sportscult.yml 
+2020-03-05 13:53:27.4681 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rns.yml 
+2020-03-05 13:53:27.5295 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/classix.yml 
+2020-03-05 13:53:27.5361 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rutor.yml 
+2020-03-05 13:53:27.5639 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitspyder.yml 
+2020-03-05 13:53:27.6033 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tazmaniaden.yml 
+2020-03-05 13:53:27.6236 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyscorner.yml 
+2020-03-05 13:53:27.6733 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sporthd.yml 
+2020-03-05 13:53:27.7116 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/0daykiev.yml 
+2020-03-05 13:53:27.7491 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/unlimitz.yml 
+2020-03-05 13:53:27.7840 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/redstartorrent.yml 
+2020-03-05 13:53:27.8189 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/eztv.yml 
+2020-03-05 13:53:27.8305 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zamundanet.yml 
+2020-03-05 13:53:27.8655 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/x-ite.me.yml 
+2020-03-05 13:53:27.9172 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/isohunt2.yml 
+2020-03-05 13:53:27.9592 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/Bittorrentfiles.yml 
+2020-03-05 13:53:28.0058 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent9.yml 
+2020-03-05 13:53:28.0332 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/oxtorrent.yml 
+2020-03-05 13:53:28.0551 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentlt.yml 
+2020-03-05 13:53:28.0777 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent-explosiv.yml 
+2020-03-05 13:53:28.1266 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/karagarga.yml 
+2020-03-05 13:53:28.1689 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rptorrents.yml 
+2020-03-05 13:53:28.1951 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdcenter.yml 
+2020-03-05 13:53:28.2330 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentsectorcrew.yml 
+2020-03-05 13:53:28.2842 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/extratorrent-ag.yml 
+2020-03-05 13:53:28.6393 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tekno3d.yml 
+2020-03-05 13:53:28.7120 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentz2.yml 
+2020-03-05 13:53:28.7738 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/film-paleis.yml 
+2020-03-05 13:53:28.8228 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/1337x.yml 
+2020-03-05 13:53:28.8990 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trezzor.yml 
+2020-03-05 13:53:28.9337 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bit-titan.yml 
+2020-03-05 13:53:28.9884 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdturk.yml 
+2020-03-05 13:53:29.0342 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/majomparade.yml 
+2020-03-05 13:53:29.0742 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupmain.yml 
+2020-03-05 13:53:29.0876 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentbd.yml 
+2020-03-05 13:53:29.1210 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/downloadville.yml 
+2020-03-05 13:53:29.1733 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/blutopia.yml 
+2020-03-05 13:53:29.2027 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/myspleen.yml 
+2020-03-05 13:53:29.2425 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underverse.yml 
+2020-03-05 13:53:29.4949 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggcookie.yml 
+2020-03-05 13:53:29.5808 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/r3vwtf.yml 
+2020-03-05 13:53:29.6492 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xtremezone.yml 
+2020-03-05 13:53:29.6979 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/insanetracker.yml 
+2020-03-05 13:53:29.7693 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xbytes2.yml 
+2020-03-05 13:53:29.8361 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estone.yml 
+2020-03-05 13:53:29.9049 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theplace.yml 
+2020-03-05 13:53:29.9801 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd-net.yml 
+2020-03-05 13:53:30.0519 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/documentarytorrents.yml 
+2020-03-05 13:53:30.1270 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ccfbits.yml 
+2020-03-05 13:53:30.2279 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pthome.yml 
+2020-03-05 13:53:30.3029 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/freetorrent.yml 
+2020-03-05 13:53:30.3424 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/leporno.yml 
+2020-03-05 13:53:30.3510 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaasi.yml 
+2020-03-05 13:53:30.4113 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamos.yml 
+2020-03-05 13:53:30.4603 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shokweb.yml 
+2020-03-05 13:53:30.4723 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/skytorrentsclone.yml 
+2020-03-05 13:53:30.4812 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greekteam.yml 
+2020-03-05 13:53:30.5129 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdzone.yml 
+2020-03-05 13:53:30.5505 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/polishsource.yml 
+2020-03-05 13:53:30.5902 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/jpopsuki.yml 
+2020-03-05 13:53:30.6236 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/4thd.yml 
+2020-03-05 13:53:30.6652 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/baibako.yml 
+2020-03-05 13:53:30.6975 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd.yml 
+2020-03-05 13:53:30.7251 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/amigosshare.yml 
+2020-03-05 13:53:30.7757 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thetorrents.yml 
+2020-03-05 13:53:30.8049 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaroblu.yml 
+2020-03-05 13:53:30.8348 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/monova.yml 
+2020-03-05 13:53:30.8431 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pwtorrents.yml 
+2020-03-05 13:53:30.8741 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/beyond-hd.yml 
+2020-03-05 13:53:30.8980 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bithumen.yml 
+2020-03-05 13:53:30.9230 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sdbits.yml 
+2020-03-05 13:53:30.9412 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metaltracker.yml 
+2020-03-05 13:53:30.9572 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentslocal.yml 
+2020-03-05 13:53:31.2553 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kickasstorrent.yml 
+2020-03-05 13:53:31.3275 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbit.yml 
+2020-03-05 13:53:31.6260 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mononokebt.yml 
+2020-03-05 13:53:31.6721 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/funkytorrents.yml 
+2020-03-05 13:53:31.7230 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtower.yml 
+2020-03-05 13:53:31.7735 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/divteam.yml 
+2020-03-05 13:53:31.8181 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asgaard.yml 
+2020-03-05 13:53:31.8691 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenepalace.yml 
+2020-03-05 13:53:31.9092 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/wihd.yml 
+2020-03-05 13:53:31.9671 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentccf.yml 
+2020-03-05 13:53:32.0085 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/femdomcult.yml 
+2020-03-05 13:53:32.0705 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ethor.yml 
+2020-03-05 13:53:32.1089 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdarea.yml 
+2020-03-05 13:53:32.1447 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fullmixmusic.yml 
+2020-03-05 13:53:32.1901 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/takeabyte.yml 
+2020-03-05 13:53:32.2202 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3dtorrents.yml 
+2020-03-05 13:53:32.2531 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/itorrent.yml 
+2020-03-05 13:53:32.2946 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trancetraffic.yml 
+2020-03-05 13:53:32.3092 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tvchaosuk.yml 
+2020-03-05 13:53:32.3531 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/booktracker.yml 
+2020-03-05 13:53:32.3686 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/proaudiotorrents.yml 
+2020-03-05 13:53:32.4085 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/focusx.yml 
+2020-03-05 13:53:32.5095 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/awesomehd.yml 
+2020-03-05 13:53:32.5223 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdforever.yml 
+2020-03-05 13:53:32.5597 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/empornium.yml 
+2020-03-05 13:53:32.5932 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbitscom.yml 
+2020-03-05 13:53:32.6181 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/totheglory.yml 
+2020-03-05 13:53:32.6436 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torviet.yml 
+2020-03-05 13:53:32.6706 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/girotorrent.yml 
+2020-03-05 13:53:32.7492 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casstudiotv.yml 
+2020-03-05 13:53:33.0246 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/lesaloon.yml 
+2020-03-05 13:53:33.1292 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentwal.yml 
+2020-03-05 13:53:33.2267 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/generationfree.yml 
+2020-03-05 13:53:33.3631 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/spacetorrent.yml 
+2020-03-05 13:53:33.4113 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/themoviecave.yml 
+2020-03-05 13:53:33.4701 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/frozenlayer.yml 
+2020-03-05 13:53:33.5202 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gamestorrents.yml 
+2020-03-05 13:53:33.5443 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentseeds.yml 
+2020-03-05 13:53:33.6239 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hush.yml 
+2020-03-05 13:53:33.6774 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pixelcove.yml 
+2020-03-05 13:53:33.7280 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/idope.yml 
+2020-03-05 13:53:33.7669 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ptfiles.yml 
+2020-03-05 13:53:33.8152 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thehorrorcharnel.yml 
+2020-03-05 13:53:33.8375 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebeinyaasi.yml 
+2020-03-05 13:53:33.8906 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tellytorrent.yml 
+2020-03-05 13:53:33.9371 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elitetorrent-biz.yml 
+2020-03-05 13:53:33.9572 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebookparadijs.yml 
+2020-03-05 13:53:33.9945 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cartoonchaos.yml 
+2020-03-05 13:53:34.0272 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/waffles.yml 
+2020-03-05 13:53:34.0837 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shareisland.yml 
+2020-03-05 13:53:34.1166 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pt99.yml 
+2020-03-05 13:53:34.1541 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dmhy.yml 
+2020-03-05 13:53:34.1709 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/backups.yml 
+2020-03-05 13:53:34.2149 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/twilight.yml 
+2020-03-05 13:53:34.2439 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpabien.yml 
+2020-03-05 13:53:34.2720 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyhd.yml 
+2020-03-05 13:53:34.3244 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gaytorrentru.yml 
+2020-03-05 13:53:34.3711 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nethd.yml 
+2020-03-05 13:53:34.4027 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tribalmixes.yml 
+2020-03-05 13:53:34.4417 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/losslessclub.yml 
+2020-03-05 13:53:34.4512 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gktorrent.yml 
+2020-03-05 13:53:34.5066 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alein.yml 
+2020-03-05 13:53:34.5616 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tasmanit.yml 
+2020-03-05 13:53:34.6191 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ztracker.yml 
+2020-03-05 13:53:34.6841 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tokyotosho.yml 
+2020-03-05 13:53:34.7233 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaronero.yml 
+2020-03-05 13:53:34.7532 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/solidtorrents.yml 
+2020-03-05 13:53:34.7686 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharewood.yml 
+2020-03-05 13:53:34.8239 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentfunk.yml 
+2020-03-05 13:53:34.8495 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yourbittorrent.yml 
+2020-03-05 13:53:34.8626 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitturk.yml 
+2020-03-05 13:53:34.9116 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hamsterstudio.yml 
+2020-03-05 13:53:35.0414 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thevault.yml 
+2020-03-05 13:53:35.0851 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebooks-shares.yml 
+2020-03-05 13:53:35.2024 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/speedtorrentreloaded.yml 
+2020-03-05 13:53:35.2494 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tapochek.yml 
+2020-03-05 13:53:35.6181 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/world-of-tomorrow.yml 
+2020-03-05 13:53:35.6851 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdhome.yml 
+2020-03-05 13:53:35.7636 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ettv.yml 
+2020-03-05 13:53:35.8430 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3evils.yml 
+2020-03-05 13:53:35.8951 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenting.yml 
+2020-03-05 13:53:35.9556 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thegeeks.yml 
+2020-03-05 13:53:36.0381 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/magnetdl.yml 
+2020-03-05 13:53:36.0573 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdsky.yml 
+2020-03-05 13:53:36.1046 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rgu.yml 
+2020-03-05 13:53:36.1699 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/peersfm.yml 
+2020-03-05 13:53:36.2085 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobookbay.yml 
+2020-03-05 13:53:36.3310 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/prostylex.yml 
+2020-03-05 13:53:36.3926 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gigatorrents.yml 
+2020-03-05 13:53:36.4518 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/music-master.yml 
+2020-03-05 13:53:36.4652 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acgsou.yml 
+2020-03-05 13:53:36.5117 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alexfilm.yml 
+2020-03-05 13:53:36.5414 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cinematik.yml 
+2020-03-05 13:53:36.5937 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/unionfansub.yml 
+2020-03-05 13:53:36.6489 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtorrent.yml 
+2020-03-05 13:53:36.6755 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bluebird.yml 
+2020-03-05 13:53:36.7196 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/eniahd.yml 
+2020-03-05 13:53:36.7829 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamhd.yml 
+2020-03-05 13:53:36.8440 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdchina.yml 
+2020-03-05 13:53:36.8928 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kapaki.yml 
+2020-03-05 13:53:36.9943 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/netlab.yml 
+2020-03-05 13:53:37.0370 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentproject2.yml 
+2020-03-05 13:53:37.0715 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/libranet.yml 
+2020-03-05 13:53:37.0966 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiandvdclub.yml 
+2020-03-05 13:53:37.1683 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vanila.yml 
+2020-03-05 13:53:37.8224 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/deildu.yml 
+2020-03-05 13:53:37.8635 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudio.yml 
+2020-03-05 13:53:37.9204 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharespacedb.yml 
+2020-03-05 13:53:37.9848 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audionews.yml 
+2020-03-05 13:53:38.1280 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casatorrent.yml 
+2020-03-05 13:53:38.1835 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/passionetorrent.yml 
+2020-03-05 13:53:38.2339 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent-turk.yml 
+2020-03-05 13:53:38.3189 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggtorrent.yml 
+2020-03-05 13:53:38.3961 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/exttorrents.yml 
+2020-03-05 13:53:38.4118 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/channelx.yml 
+2020-03-05 13:53:38.4498 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mactorrents.yml 
+2020-03-05 13:53:38.4626 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentland.yml 
+2020-03-05 13:53:38.5243 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/marinetracker.yml 
+2020-03-05 13:53:38.5769 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupforum.yml 
+2020-03-05 13:53:38.6274 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobooktorrents.yml 
+2020-03-05 13:53:38.6803 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btschool.yml 
+2020-03-05 13:53:38.7200 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdspain.yml 
+2020-03-05 13:53:38.7529 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nostalgic.yml 
+2020-03-05 13:53:38.7945 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/diablotorrent.yml 
+2020-03-05 13:53:38.8643 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/demonoid.yml 
+2020-03-05 13:53:39.0115 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/immortuos.yml 
+2020-03-05 13:53:39.1220 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desireleasers.yml 
+2020-03-05 13:53:39.8257 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thepiratebay.yml 
+2020-03-05 13:53:39.9030 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/inperil.yml 
+2020-03-05 13:53:40.0520 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btgigs.yml 
+2020-03-05 13:53:40.1240 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpasbienclone.yml 
+2020-03-05 13:53:40.1699 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/uhdbits.yml 
+2020-03-05 13:53:40.2228 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbits.yml 
+2020-03-05 13:53:40.2694 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaa-pantsu.yml 
+2020-03-05 13:53:40.3855 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gfxpeers.yml 
+2020-03-05 13:53:40.4430 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentgalaxyorg.yml 
+2020-03-05 13:53:40.5079 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theshow.yml 
+2020-03-05 13:53:40.5635 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fanoin.yml 
+2020-03-05 13:53:40.6138 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/soundpark.yml 
+2020-03-05 13:53:40.6643 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/learnflakes.yml 
+2020-03-05 13:53:40.7308 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyspirits.yml 
+2020-03-05 13:53:40.8063 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rodvd.yml 
+2020-03-05 13:53:40.8595 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/siambit.yml 
+2020-03-05 13:53:40.9289 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gay-torrentsorg.yml 
+2020-03-05 13:53:40.9867 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudiol.yml 
+2020-03-05 13:53:41.0406 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crnaberza.yml 
+2020-03-05 13:53:41.1088 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metal-iplay-ro.yml 
+2020-03-05 13:53:41.1898 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elittracker.yml 
+2020-03-05 13:53:41.2901 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pleasuredome.yml 
+2020-03-05 13:53:41.3341 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ourbits.yml 
+2020-03-05 13:53:41.3909 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vizuk.yml 
+2020-03-05 13:53:41.4709 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nnm-club.yml 
+2020-03-05 13:53:41.9574 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tfile.yml 
+2020-03-05 13:53:42.2498 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kinozal.yml 
+2020-03-05 13:53:42.2990 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/linkomanija.yml 
+2020-03-05 13:53:42.3270 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebei-pantsu.yml 
+2020-03-05 13:53:42.3492 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/limetorrents.yml 
+2020-03-05 13:53:42.3664 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theempire.yml 
+2020-03-05 13:53:42.3921 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/esharenet.yml 
+2020-03-05 13:53:42.4297 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/glodls.yml 
+2020-03-05 13:53:42.4859 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dragonworldreloaded.yml 
+2020-03-05 13:53:42.5273 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiancinema.yml 
+2020-03-05 13:53:42.5559 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigfangroup.yml 
+2020-03-05 13:53:42.5834 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenefz.yml 
+2020-03-05 13:53:42.6194 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentquest.yml 
+2020-03-05 13:53:42.6261 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenthr.yml 
+2020-03-05 13:53:42.6533 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hachede.yml 
+2020-03-05 13:53:42.6902 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/turktorrent.yml 
+2020-03-05 13:53:42.7243 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/2fast4you.yml 
+2020-03-05 13:53:42.7806 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent9clone.yml 
+2020-03-05 13:53:42.8175 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdme.yml 
+2020-03-05 13:53:42.8567 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dark-shadow.yml 
+2020-03-05 13:53:42.8976 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/racingforme.yml 
+2020-03-05 13:53:42.9490 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenerush.yml 
+2020-03-05 13:53:42.9835 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acidlounge.yml 
+2020-03-05 13:53:43.0201 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hddolby.yml 
+2020-03-05 13:53:43.0594 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/arenabg.yml 
+2020-03-05 13:53:43.1063 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/chdbits.yml 
+2020-03-05 13:53:43.1487 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitme.yml 
+2020-03-05 13:53:43.1755 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hqsource.yml 
+2020-03-05 13:53:43.1997 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desitorrents.yml 
+2020-03-05 13:53:43.2401 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownloads.yml 
+2020-03-05 13:53:43.2544 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitru.yml 
+2020-03-05 13:53:43.2804 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bittorrentam.yml 
+2020-03-05 13:53:43.2911 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btetree.yml 
+2020-03-05 13:53:43.3004 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dxp.yml 
+2020-03-05 13:53:43.3443 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estrenosdtl.yml 
+2020-03-05 13:53:43.3585 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/firebit.yml 
+2020-03-05 13:53:43.3830 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greeklegends.yml 
+2020-03-05 13:53:43.4172 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/legittorrents.yml 
+2020-03-05 13:53:43.4336 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/moviesdvdr.yml 
+2020-03-05 13:53:43.4421 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nntt.yml 
+2020-03-05 13:53:43.6777 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbitl.yml 
+2020-03-05 13:53:43.8752 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/riperam.yml 
+2020-03-05 13:53:44.2285 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rus-media.yml 
+2020-03-05 13:53:44.4087 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownload.yml 
+2020-03-05 13:53:44.4202 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentparadise.yml 
+2020-03-05 13:53:44.4575 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underversel.yml 
+2020-03-05 13:53:44.6709 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hd4fans.yml 
+2020-03-05 13:53:44.6959 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdroute.yml 
+2020-03-05 13:53:44.7162 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdu.yml 
+2020-03-05 13:53:44.7295 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/springsunday.yml 
+2020-03-05 13:53:44.7556 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/toros.yml 
+2020-03-05 13:53:44.7682 Info Adding aggregate indexer 
+2020-03-05 13:55:04.4263 Info CardigannIndexer (alexfilm): Relogin required 
+2020-03-05 13:55:07.0341 Error CardigannIndexer (acgsou): Error while parsing row '
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>':
+
+System.Exception: Error while parsing field=category, selector=td:nth-child(2) a, value=<null>: Selector "td:nth-child(2) a" didn't match 
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 13:55:07.8957 Error Error on 20200305135507 for KickAssTorrent (kat.li).txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://kickass.ws/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:55:08.8225 Error CardigannIndexer (itorrent): Error while parsing row '
+<tr class="gradeX">
+	<td class="fit" style="width: 30px!important;">
+		<a href="https://cdn.itorrent.ws/uploads/cover/1485019555mRZd27l2bS.jpg" class="preview">
+			<i class="zqf zqf-movies" data-toggle="_tooltip" data-placement="left" title="Film/HU/SD"></i>
+		</a>
+	</td>
+	<td class="ellipse">
+		<a style="font-size:13px;color:#4a4a4a;" href="/torrent/11116/nine_lives_2016_dvdrip_x264_dual_snerz/">
+			Nine.Lives.2016.DVDRiP.x264.DUAL-SNERZ
+		</a>
+		<span>HU/SD • Kilenc élet • 2016 • Vígjátek, Családi, Fantázia</span>
+	</td>
+	<td class="fit hidden-xs">
+	</td>
+	<td class="fit hidden-xs">
+		2017.01.21
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1.12 GB
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1 166
+	</td>
+	<td class="fit">
+		1
+	</td>
+	<td class="fit hidden-xs">
+		0
+	</td>
+</tr>':
+
+System.Exception: Error while parsing field=grabs, selector=td:nth-child(6), value=1 166: Input string was not in a correct format.
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 13:55:08.9510 Error Error on 20200305135508 for Il Corsaro Nero.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://ilcorsaronero.pw/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:55:15.2460 Error Error on 20200305135515 for EliteTorrent.biz.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://www.elitetorrent.nl/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:56:50.6237 Info Starting Jackett v0.12.1099.0 
+2020-03-05 13:56:54.0816 Info Environment version: 3.0.1 (/home/thasharath/Documents/Jackett/) 
+2020-03-05 13:56:54.0870 Info OS version: Unix 5.3.0.40 (64bit OS) (64bit process) 
+2020-03-05 13:56:54.0870 Info Jackett variant: CoreLinuxAmdx64 
+2020-03-05 13:56:54.0907 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2020-03-05 13:56:54.0907 Info App config/log directory: /home/thasharath/.config/Jackett 
+2020-03-05 13:56:54.0907 Info issue: Ubuntu 18.04.4 LTS \n \l 
+2020-03-05 13:56:54.1076 Info Using HTTP Client: HttpWebClient2NetCore 
+2020-03-05 13:56:55.3567 Info Loading Cardigann definitions from: /home/thasharath/.config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /home/thasharath/Documents/Jackett/Definitions 
+2020-03-05 13:56:55.4520 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shellife.yml 
+2020-03-05 13:56:55.8751 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cinemageddon.yml 
+2020-03-05 13:56:55.9135 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/arabafenice.yml 
+2020-03-05 13:56:55.9832 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btdigg.yml 
+2020-03-05 13:56:55.9963 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torlock.yml 
+2020-03-05 13:56:56.0159 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/datascene.yml 
+2020-03-05 13:56:56.0476 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btnext.yml 
+2020-03-05 13:56:56.0974 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/concen.yml 
+2020-03-05 13:56:56.1067 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/anirena.yml 
+2020-03-05 13:56:56.1214 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/racing4everyone.yml 
+2020-03-05 13:56:56.1665 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zelkaorg.yml 
+2020-03-05 13:56:56.2035 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/totallykids.yml 
+2020-03-05 13:56:56.2525 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yourexotic.yml 
+2020-03-05 13:56:56.2625 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theaudioscene.yml 
+2020-03-05 13:56:56.2778 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dxdhd.yml 
+2020-03-05 13:56:56.3046 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/retroflix.yml 
+2020-03-05 13:56:56.3242 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/seedfile.yml 
+2020-03-05 13:56:56.3508 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/puntotorrent.yml 
+2020-03-05 13:56:56.4057 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/aftershock.yml 
+2020-03-05 13:56:56.4515 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/DasUnerwartete.yml 
+2020-03-05 13:56:56.5591 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btdb.yml 
+2020-03-05 13:56:56.6095 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xwtorrents.yml 
+2020-03-05 13:56:56.7025 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theoccult.yml 
+2020-03-05 13:56:56.7928 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newretro.yml 
+2020-03-05 13:56:56.8385 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/carpathians.yml 
+2020-03-05 13:56:56.8651 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdcity.yml 
+2020-03-05 13:56:56.9265 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shareuniversity.yml 
+2020-03-05 13:56:56.9568 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/icetorrent.yml 
+2020-03-05 13:56:56.9933 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/p2pbg.yml 
+2020-03-05 13:56:57.0319 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sktorrent.yml 
+2020-03-05 13:56:57.0654 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mteamtp.yml 
+2020-03-05 13:56:57.1024 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kickasstorrent-kathow.yml 
+2020-03-05 13:56:57.1184 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdreactor.yml 
+2020-03-05 13:56:57.1436 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bithorlo.yml 
+2020-03-05 13:56:57.1686 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gay-torrents.yml 
+2020-03-05 13:56:57.2129 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/magico.yml 
+2020-03-05 13:56:57.2693 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/efectodoppler.yml 
+2020-03-05 13:56:57.2876 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theshinning.yml 
+2020-03-05 13:56:57.3138 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cztorrent.yml 
+2020-03-05 13:56:57.3441 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nbtorrents.yml 
+2020-03-05 13:56:57.3680 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ast4u.yml 
+2020-03-05 13:56:57.3978 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/galeriens.yml 
+2020-03-05 13:56:57.4860 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xtremefile.yml 
+2020-03-05 13:56:57.5109 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/concertos.yml 
+2020-03-05 13:56:57.5234 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tenyardtracker.yml 
+2020-03-05 13:56:57.5417 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nitro.yml 
+2020-03-05 13:56:57.5585 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acgrip.yml 
+2020-03-05 13:56:57.5685 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zooqle.yml 
+2020-03-05 13:56:57.5894 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdtorrentsit.yml 
+2020-03-05 13:56:57.6276 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/anidex.yml 
+2020-03-05 13:56:57.6712 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/uniongang.yml 
+2020-03-05 13:56:57.6980 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/movcr.yml 
+2020-03-05 13:56:57.7106 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rockbox.yml 
+2020-03-05 13:56:57.7223 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sportscult.yml 
+2020-03-05 13:56:57.7564 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rns.yml 
+2020-03-05 13:56:57.8221 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/classix.yml 
+2020-03-05 13:56:57.8550 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rutor.yml 
+2020-03-05 13:56:57.9008 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitspyder.yml 
+2020-03-05 13:56:57.9493 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tazmaniaden.yml 
+2020-03-05 13:56:57.9886 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyscorner.yml 
+2020-03-05 13:56:58.0736 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sporthd.yml 
+2020-03-05 13:56:58.1379 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/0daykiev.yml 
+2020-03-05 13:56:58.2370 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/unlimitz.yml 
+2020-03-05 13:56:58.3047 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/redstartorrent.yml 
+2020-03-05 13:56:58.3565 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/eztv.yml 
+2020-03-05 13:56:58.3684 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/zamundanet.yml 
+2020-03-05 13:56:58.3965 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/x-ite.me.yml 
+2020-03-05 13:56:58.4251 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/isohunt2.yml 
+2020-03-05 13:56:58.4400 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/Bittorrentfiles.yml 
+2020-03-05 13:56:58.4696 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent9.yml 
+2020-03-05 13:56:58.4861 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/oxtorrent.yml 
+2020-03-05 13:56:58.5012 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentlt.yml 
+2020-03-05 13:56:58.5232 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent-explosiv.yml 
+2020-03-05 13:56:58.5521 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/karagarga.yml 
+2020-03-05 13:56:58.5790 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rptorrents.yml 
+2020-03-05 13:56:58.5938 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdcenter.yml 
+2020-03-05 13:56:58.6145 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentsectorcrew.yml 
+2020-03-05 13:56:58.6484 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/extratorrent-ag.yml 
+2020-03-05 13:56:59.1601 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tekno3d.yml 
+2020-03-05 13:56:59.2038 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentz2.yml 
+2020-03-05 13:56:59.2293 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/film-paleis.yml 
+2020-03-05 13:56:59.2652 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/1337x.yml 
+2020-03-05 13:56:59.3035 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trezzor.yml 
+2020-03-05 13:56:59.3254 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bit-titan.yml 
+2020-03-05 13:56:59.3613 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdturk.yml 
+2020-03-05 13:56:59.3867 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/majomparade.yml 
+2020-03-05 13:56:59.4138 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupmain.yml 
+2020-03-05 13:56:59.4296 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentbd.yml 
+2020-03-05 13:56:59.4616 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/downloadville.yml 
+2020-03-05 13:56:59.4969 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/blutopia.yml 
+2020-03-05 13:56:59.5132 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/myspleen.yml 
+2020-03-05 13:56:59.5264 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underverse.yml 
+2020-03-05 13:56:59.7821 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggcookie.yml 
+2020-03-05 13:56:59.8372 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/r3vwtf.yml 
+2020-03-05 13:56:59.8763 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xtremezone.yml 
+2020-03-05 13:56:59.9262 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/insanetracker.yml 
+2020-03-05 13:56:59.9525 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/xbytes2.yml 
+2020-03-05 13:57:00.0101 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estone.yml 
+2020-03-05 13:57:00.0490 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theplace.yml 
+2020-03-05 13:57:00.0918 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd-net.yml 
+2020-03-05 13:57:00.1390 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/documentarytorrents.yml 
+2020-03-05 13:57:00.2251 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ccfbits.yml 
+2020-03-05 13:57:00.2443 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pthome.yml 
+2020-03-05 13:57:00.2632 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/freetorrent.yml 
+2020-03-05 13:57:00.2847 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/leporno.yml 
+2020-03-05 13:57:00.2976 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaasi.yml 
+2020-03-05 13:57:00.3291 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamos.yml 
+2020-03-05 13:57:00.3631 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shokweb.yml 
+2020-03-05 13:57:00.3718 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/skytorrentsclone.yml 
+2020-03-05 13:57:00.3822 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greekteam.yml 
+2020-03-05 13:57:00.4016 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdzone.yml 
+2020-03-05 13:57:00.4259 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/polishsource.yml 
+2020-03-05 13:57:00.4405 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/jpopsuki.yml 
+2020-03-05 13:57:00.4554 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/4thd.yml 
+2020-03-05 13:57:00.4697 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/baibako.yml 
+2020-03-05 13:57:00.4866 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hon3yhd.yml 
+2020-03-05 13:57:00.5065 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/amigosshare.yml 
+2020-03-05 13:57:00.5480 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thetorrents.yml 
+2020-03-05 13:57:00.5714 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaroblu.yml 
+2020-03-05 13:57:00.6000 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/monova.yml 
+2020-03-05 13:57:00.6091 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pwtorrents.yml 
+2020-03-05 13:57:00.6263 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/beyond-hd.yml 
+2020-03-05 13:57:00.6366 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bithumen.yml 
+2020-03-05 13:57:00.6673 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sdbits.yml 
+2020-03-05 13:57:00.6815 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metaltracker.yml 
+2020-03-05 13:57:00.6900 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentslocal.yml 
+2020-03-05 13:57:01.0678 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kickasstorrent.yml 
+2020-03-05 13:57:01.1254 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbit.yml 
+2020-03-05 13:57:01.4162 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mononokebt.yml 
+2020-03-05 13:57:01.4348 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/funkytorrents.yml 
+2020-03-05 13:57:01.4617 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtower.yml 
+2020-03-05 13:57:01.4909 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/divteam.yml 
+2020-03-05 13:57:01.5428 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asgaard.yml 
+2020-03-05 13:57:01.5891 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenepalace.yml 
+2020-03-05 13:57:01.6119 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/wihd.yml 
+2020-03-05 13:57:01.7129 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentccf.yml 
+2020-03-05 13:57:01.7535 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/femdomcult.yml 
+2020-03-05 13:57:01.7708 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ethor.yml 
+2020-03-05 13:57:01.7886 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdarea.yml 
+2020-03-05 13:57:01.8027 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fullmixmusic.yml 
+2020-03-05 13:57:01.8264 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/takeabyte.yml 
+2020-03-05 13:57:01.8619 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3dtorrents.yml 
+2020-03-05 13:57:01.8854 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/itorrent.yml 
+2020-03-05 13:57:01.9040 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/trancetraffic.yml 
+2020-03-05 13:57:01.9117 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tvchaosuk.yml 
+2020-03-05 13:57:01.9478 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/booktracker.yml 
+2020-03-05 13:57:01.9572 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/proaudiotorrents.yml 
+2020-03-05 13:57:01.9692 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/focusx.yml 
+2020-03-05 13:57:02.0191 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/awesomehd.yml 
+2020-03-05 13:57:02.0305 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdforever.yml 
+2020-03-05 13:57:02.0622 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/empornium.yml 
+2020-03-05 13:57:02.0995 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbitscom.yml 
+2020-03-05 13:57:02.1127 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/totheglory.yml 
+2020-03-05 13:57:02.1293 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torviet.yml 
+2020-03-05 13:57:02.1497 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/girotorrent.yml 
+2020-03-05 13:57:02.1972 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casstudiotv.yml 
+2020-03-05 13:57:02.2668 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/lesaloon.yml 
+2020-03-05 13:57:02.2922 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentwal.yml 
+2020-03-05 13:57:02.3071 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/generationfree.yml 
+2020-03-05 13:57:02.3401 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/spacetorrent.yml 
+2020-03-05 13:57:02.3517 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/themoviecave.yml 
+2020-03-05 13:57:02.3673 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/frozenlayer.yml 
+2020-03-05 13:57:02.3827 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gamestorrents.yml 
+2020-03-05 13:57:02.3896 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentseeds.yml 
+2020-03-05 13:57:02.4107 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hush.yml 
+2020-03-05 13:57:02.4266 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pixelcove.yml 
+2020-03-05 13:57:02.4438 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/idope.yml 
+2020-03-05 13:57:02.4596 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ptfiles.yml 
+2020-03-05 13:57:02.4732 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thehorrorcharnel.yml 
+2020-03-05 13:57:02.4843 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebeinyaasi.yml 
+2020-03-05 13:57:02.4954 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tellytorrent.yml 
+2020-03-05 13:57:02.5112 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elitetorrent-biz.yml 
+2020-03-05 13:57:02.5201 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebookparadijs.yml 
+2020-03-05 13:57:02.5392 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cartoonchaos.yml 
+2020-03-05 13:57:02.5530 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/waffles.yml 
+2020-03-05 13:57:02.5784 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/shareisland.yml 
+2020-03-05 13:57:02.6007 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pt99.yml 
+2020-03-05 13:57:02.6155 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dmhy.yml 
+2020-03-05 13:57:02.6262 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/backups.yml 
+2020-03-05 13:57:02.6415 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/twilight.yml 
+2020-03-05 13:57:02.6569 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpabien.yml 
+2020-03-05 13:57:02.6756 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyhd.yml 
+2020-03-05 13:57:02.7143 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gaytorrentru.yml 
+2020-03-05 13:57:02.7412 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nethd.yml 
+2020-03-05 13:57:02.7592 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tribalmixes.yml 
+2020-03-05 13:57:02.7840 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/losslessclub.yml 
+2020-03-05 13:57:02.8026 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gktorrent.yml 
+2020-03-05 13:57:02.8432 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alein.yml 
+2020-03-05 13:57:02.8633 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tasmanit.yml 
+2020-03-05 13:57:02.9066 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ztracker.yml 
+2020-03-05 13:57:02.9349 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tokyotosho.yml 
+2020-03-05 13:57:02.9496 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ilcorsaronero.yml 
+2020-03-05 13:57:02.9690 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/solidtorrents.yml 
+2020-03-05 13:57:02.9791 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharewood.yml 
+2020-03-05 13:57:03.0091 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentfunk.yml 
+2020-03-05 13:57:03.0238 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yourbittorrent.yml 
+2020-03-05 13:57:03.0346 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitturk.yml 
+2020-03-05 13:57:03.0570 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hamsterstudio.yml 
+2020-03-05 13:57:03.1351 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thevault.yml 
+2020-03-05 13:57:03.1576 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ebooks-shares.yml 
+2020-03-05 13:57:03.2361 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/speedtorrentreloaded.yml 
+2020-03-05 13:57:03.2558 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tapochek.yml 
+2020-03-05 13:57:03.3722 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/world-of-tomorrow.yml 
+2020-03-05 13:57:03.3911 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdhome.yml 
+2020-03-05 13:57:03.4138 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ettv.yml 
+2020-03-05 13:57:03.4468 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/3evils.yml 
+2020-03-05 13:57:03.4818 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenting.yml 
+2020-03-05 13:57:03.5049 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thegeeks.yml 
+2020-03-05 13:57:03.5714 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/magnetdl.yml 
+2020-03-05 13:57:03.5952 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdsky.yml 
+2020-03-05 13:57:03.6211 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rgu.yml 
+2020-03-05 13:57:03.6400 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/peersfm.yml 
+2020-03-05 13:57:03.6574 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobookbay.yml 
+2020-03-05 13:57:03.6964 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/prostylex.yml 
+2020-03-05 13:57:03.7138 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gigatorrents.yml 
+2020-03-05 13:57:03.7331 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/music-master.yml 
+2020-03-05 13:57:03.7432 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acgsou.yml 
+2020-03-05 13:57:03.7566 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/alexfilm.yml 
+2020-03-05 13:57:03.7706 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cinematik.yml 
+2020-03-05 13:57:03.7826 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/unionfansub.yml 
+2020-03-05 13:57:03.7963 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigtorrent.yml 
+2020-03-05 13:57:03.8076 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bluebird.yml 
+2020-03-05 13:57:03.8192 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/eniahd.yml 
+2020-03-05 13:57:03.8355 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/teamhd.yml 
+2020-03-05 13:57:03.8462 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdchina.yml 
+2020-03-05 13:57:03.8622 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kapaki.yml 
+2020-03-05 13:57:03.8975 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/netlab.yml 
+2020-03-05 13:57:03.9113 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentproject2.yml 
+2020-03-05 13:57:03.9199 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/libranet.yml 
+2020-03-05 13:57:03.9325 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiandvdclub.yml 
+2020-03-05 13:57:03.9445 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vanila.yml 
+2020-03-05 13:57:04.6877 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/deildu.yml 
+2020-03-05 13:57:04.7354 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudio.yml 
+2020-03-05 13:57:04.7719 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sharespacedb.yml 
+2020-03-05 13:57:04.8232 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audionews.yml 
+2020-03-05 13:57:04.9178 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/casatorrent.yml 
+2020-03-05 13:57:04.9534 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/passionetorrent.yml 
+2020-03-05 13:57:04.9803 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent-turk.yml 
+2020-03-05 13:57:05.0275 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/yggtorrent.yml 
+2020-03-05 13:57:05.0805 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/exttorrents.yml 
+2020-03-05 13:57:05.0907 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/channelx.yml 
+2020-03-05 13:57:05.1079 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mactorrents.yml 
+2020-03-05 13:57:05.1172 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentland.yml 
+2020-03-05 13:57:05.1399 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/marinetracker.yml 
+2020-03-05 13:57:05.1719 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/mvgroupforum.yml 
+2020-03-05 13:57:05.1984 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/audiobooktorrents.yml 
+2020-03-05 13:57:05.2229 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btschool.yml 
+2020-03-05 13:57:05.2353 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdspain.yml 
+2020-03-05 13:57:05.2608 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nostalgic.yml 
+2020-03-05 13:57:05.2875 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/diablotorrent.yml 
+2020-03-05 13:57:05.3149 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/demonoid.yml 
+2020-03-05 13:57:05.4158 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/immortuos.yml 
+2020-03-05 13:57:05.4431 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desireleasers.yml 
+2020-03-05 13:57:05.4607 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/thepiratebay.yml 
+2020-03-05 13:57:05.5239 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/inperil.yml 
+2020-03-05 13:57:05.5586 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btgigs.yml 
+2020-03-05 13:57:05.5823 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/cpasbienclone.yml 
+2020-03-05 13:57:05.5993 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/uhdbits.yml 
+2020-03-05 13:57:05.6175 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdbits.yml 
+2020-03-05 13:57:05.6281 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nyaa-pantsu.yml 
+2020-03-05 13:57:05.6502 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gfxpeers.yml 
+2020-03-05 13:57:05.6608 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentgalaxyorg.yml 
+2020-03-05 13:57:05.6833 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theshow.yml 
+2020-03-05 13:57:05.7286 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/fanoin.yml 
+2020-03-05 13:57:05.7570 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/soundpark.yml 
+2020-03-05 13:57:05.7746 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/learnflakes.yml 
+2020-03-05 13:57:05.8002 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crazyspirits.yml 
+2020-03-05 13:57:05.8438 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rodvd.yml 
+2020-03-05 13:57:05.8690 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/siambit.yml 
+2020-03-05 13:57:05.8962 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/gay-torrentsorg.yml 
+2020-03-05 13:57:05.9265 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/newstudiol.yml 
+2020-03-05 13:57:05.9394 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/crnaberza.yml 
+2020-03-05 13:57:05.9631 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/metal-iplay-ro.yml 
+2020-03-05 13:57:05.9756 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/elittracker.yml 
+2020-03-05 13:57:06.0002 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/pleasuredome.yml 
+2020-03-05 13:57:06.0186 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/ourbits.yml 
+2020-03-05 13:57:06.0554 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/vizuk.yml 
+2020-03-05 13:57:06.0861 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nnm-club.yml 
+2020-03-05 13:57:06.4628 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/tfile.yml 
+2020-03-05 13:57:06.7775 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/kinozal.yml 
+2020-03-05 13:57:06.8079 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/linkomanija.yml 
+2020-03-05 13:57:06.8323 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/sukebei-pantsu.yml 
+2020-03-05 13:57:06.8448 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/limetorrents.yml 
+2020-03-05 13:57:06.8554 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/theempire.yml 
+2020-03-05 13:57:06.8729 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/esharenet.yml 
+2020-03-05 13:57:06.9003 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/glodls.yml 
+2020-03-05 13:57:06.9175 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dragonworldreloaded.yml 
+2020-03-05 13:57:06.9576 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/asiancinema.yml 
+2020-03-05 13:57:06.9796 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bigfangroup.yml 
+2020-03-05 13:57:07.0107 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenefz.yml 
+2020-03-05 13:57:07.0288 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentquest.yml 
+2020-03-05 13:57:07.0411 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrenthr.yml 
+2020-03-05 13:57:07.0699 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hachede.yml 
+2020-03-05 13:57:07.1063 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/turktorrent.yml 
+2020-03-05 13:57:07.1378 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/2fast4you.yml 
+2020-03-05 13:57:07.1898 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrent9clone.yml 
+2020-03-05 13:57:07.2235 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdme.yml 
+2020-03-05 13:57:07.2403 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dark-shadow.yml 
+2020-03-05 13:57:07.3003 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/racingforme.yml 
+2020-03-05 13:57:07.3797 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/scenerush.yml 
+2020-03-05 13:57:07.4123 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/acidlounge.yml 
+2020-03-05 13:57:07.4423 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hddolby.yml 
+2020-03-05 13:57:07.4583 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/arenabg.yml 
+2020-03-05 13:57:07.5121 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/chdbits.yml 
+2020-03-05 13:57:07.5264 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitme.yml 
+2020-03-05 13:57:07.5585 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hqsource.yml 
+2020-03-05 13:57:07.5800 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/desitorrents.yml 
+2020-03-05 13:57:07.6206 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownloads.yml 
+2020-03-05 13:57:07.6312 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bitru.yml 
+2020-03-05 13:57:07.6570 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/bittorrentam.yml 
+2020-03-05 13:57:07.6659 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/btetree.yml 
+2020-03-05 13:57:07.6732 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/dxp.yml 
+2020-03-05 13:57:07.6915 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/estrenosdtl.yml 
+2020-03-05 13:57:07.7010 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/firebit.yml 
+2020-03-05 13:57:07.7291 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/greeklegends.yml 
+2020-03-05 13:57:07.7488 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/legittorrents.yml 
+2020-03-05 13:57:07.7597 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/moviesdvdr.yml 
+2020-03-05 13:57:07.7651 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/nntt.yml 
+2020-03-05 13:57:07.9812 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/piratbitl.yml 
+2020-03-05 13:57:08.2331 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/riperam.yml 
+2020-03-05 13:57:08.5323 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/rus-media.yml 
+2020-03-05 13:57:08.6117 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentdownload.yml 
+2020-03-05 13:57:08.6206 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/torrentparadise.yml 
+2020-03-05 13:57:08.6335 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/underversel.yml 
+2020-03-05 13:57:08.8423 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hd4fans.yml 
+2020-03-05 13:57:08.8782 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdroute.yml 
+2020-03-05 13:57:08.8917 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/hdu.yml 
+2020-03-05 13:57:08.9135 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/springsunday.yml 
+2020-03-05 13:57:08.9283 Info Loading Cardigann definition /home/thasharath/Documents/Jackett/Definitions/toros.yml 
+2020-03-05 13:57:08.9490 Info Adding aggregate indexer 
+2020-03-05 13:57:33.6334 Info CardigannIndexer (alexfilm): Relogin required 
+2020-03-05 13:57:35.6623 Error Error on 20200305135735 for KickAssTorrent (kat.li).txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://kickass.ws/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:57:36.1997 Error CardigannIndexer (acgsou): Error while parsing row '
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>':
+
+System.Exception: Error while parsing field=category, selector=td:nth-child(2) a, value=<null>: Selector "td:nth-child(2) a" didn't match 
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 13:57:36.6490 Error CardigannIndexer (itorrent): Error while parsing row '
+<tr class="gradeX">
+	<td class="fit" style="width: 30px!important;">
+		<a href="https://cdn.itorrent.ws/uploads/cover/1485019555mRZd27l2bS.jpg" class="preview">
+			<i class="zqf zqf-movies" data-toggle="_tooltip" data-placement="left" title="Film/HU/SD"></i>
+		</a>
+	</td>
+	<td class="ellipse">
+		<a style="font-size:13px;color:#4a4a4a;" href="/torrent/11116/nine_lives_2016_dvdrip_x264_dual_snerz/">
+			Nine.Lives.2016.DVDRiP.x264.DUAL-SNERZ
+		</a>
+		<span>HU/SD • Kilenc élet • 2016 • Vígjátek, Családi, Fantázia</span>
+	</td>
+	<td class="fit hidden-xs">
+	</td>
+	<td class="fit hidden-xs">
+		2017.01.21
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1.12 GB
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1 166
+	</td>
+	<td class="fit">
+		1
+	</td>
+	<td class="fit hidden-xs">
+		0
+	</td>
+</tr>':
+
+System.Exception: Error while parsing field=grabs, selector=td:nth-child(6), value=1 166: Input string was not in a correct format.
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 13:57:37.9366 Error Error on 20200305135737 for Il Corsaro Nero.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://ilcorsaronero.pw/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:57:41.9381 Error Error on 20200305135741 for EliteTorrent.biz.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://www.elitetorrent.nl/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:59:02.4250 Error Jackett.Common.IndexerException: Exception (animetosho): The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+ ---> System.Xml.XmlException: The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at Jackett.Common.Indexers.Feeds.BaseNewznabIndexer.ParseFeedForResults(String feedContent) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseNewznabIndexer.cs:line 22
+   at Jackett.Common.Indexers.Feeds.BaseFeedIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseFeedIndexer.cs:line 45
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 331
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 351
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 819
+   at Jackett.Server.Controllers.ResultsController.Results(ApiSearch requestt) in /home/appveyor/projects/jackett/src/Jackett.Server/Controllers/ResultsController.cs:line 227 Jackett.Common.IndexerException: Exception (animetosho): The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+ ---> System.Xml.XmlException: The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at Jackett.Common.Indexers.Feeds.BaseNewznabIndexer.ParseFeedForResults(String feedContent) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseNewznabIndexer.cs:line 22
+   at Jackett.Common.Indexers.Feeds.BaseFeedIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseFeedIndexer.cs:line 45
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 331
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 351
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 819
+   at Jackett.Server.Controllers.ResultsController.Results(ApiSearch requestt) in /home/appveyor/projects/jackett/src/Jackett.Server/Controllers/ResultsController.cs:line 227
+2020-03-05 13:59:03.0641 Info Manual search for "brooklyn nine nine" on 1337x, acgrip, acgsou, alexfilm, anidex, animetosho, aniRena, bigfangroup, bitru, bittorrentam, corsarored, cpasbien, cpasbienclone, demonoid, dmhy, elitetorrent-biz, ettv, exttorrents, extratorrent-ag, eztv, firebit, focusx, frozenlayer, gktorrent, glodls, hdreactor, hon3yhd-net, horriblesubs, idope, ilcorsaroblu, ilcorsaronero, isohunt2, itorrent, kickasstorrent, kickasstorrent-kathow, legittorrents, limetorrents, magnetdl, newpct, nyaa-pantsu, nyaasi, rarbg, rutracker, thepiratebay, tokyotosho, underverse, yourbittorrent, zooqle with 708 results. 
+2020-03-05 13:59:25.1865 Error Error on 20200305135925 for EliteTorrent.biz.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://www.elitetorrent.nl/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:59:25.3728 Error Error on 20200305135925 for Il Corsaro Nero.txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://ilcorsaronero.pw/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:59:25.7834 Error Error on 20200305135925 for KickAssTorrent (kat.li).txtJackett.Common.ExceptionWithConfigData: Got redirected to another domain. Try changing the indexer URL to https://kickass.ws/.
+   at Jackett.Common.Indexers.CardigannIndexer.CheckIfLoginIsNeeded(WebClientStringResult Result, IHtmlDocument document) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 750
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1252
+
+
+
+
+ 
+2020-03-05 13:59:27.3189 Error CardigannIndexer (acgsou): Error while parsing row '
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>':
+
+System.Exception: Error while parsing field=category, selector=td:nth-child(2) a, value=<null>: Selector "td:nth-child(2) a" didn't match 
+<tr class="alt1 text_center">
+	<td colspan="8">没有可显示资源</td>
+</tr>
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 13:59:29.5876 Error CardigannIndexer (itorrent): Error while parsing row '
+<tr class="gradeX">
+	<td class="fit" style="width: 30px!important;">
+		<a href="https://cdn.itorrent.ws/uploads/cover/1485019555mRZd27l2bS.jpg" class="preview">
+			<i class="zqf zqf-movies" data-toggle="_tooltip" data-placement="left" title="Film/HU/SD"></i>
+		</a>
+	</td>
+	<td class="ellipse">
+		<a style="font-size:13px;color:#4a4a4a;" href="/torrent/11116/nine_lives_2016_dvdrip_x264_dual_snerz/">
+			Nine.Lives.2016.DVDRiP.x264.DUAL-SNERZ
+		</a>
+		<span>HU/SD • Kilenc élet • 2016 • Vígjátek, Családi, Fantázia</span>
+	</td>
+	<td class="fit hidden-xs">
+	</td>
+	<td class="fit hidden-xs">
+		2017.01.21
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1.12 GB
+	</td>
+	<td class="fit hidden-sm hidden-xs">
+		1 166
+	</td>
+	<td class="fit">
+		1
+	</td>
+	<td class="fit hidden-xs">
+		0
+	</td>
+</tr>':
+
+System.Exception: Error while parsing field=grabs, selector=td:nth-child(6), value=1 166: Input string was not in a correct format.
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1489 
+2020-03-05 14:01:05.1679 Error Jackett.Common.IndexerException: Exception (animetosho): The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+ ---> System.Xml.XmlException: The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at Jackett.Common.Indexers.Feeds.BaseNewznabIndexer.ParseFeedForResults(String feedContent) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseNewznabIndexer.cs:line 22
+   at Jackett.Common.Indexers.Feeds.BaseFeedIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseFeedIndexer.cs:line 45
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 331
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 351
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 819
+   at Jackett.Server.Controllers.ResultsController.Results(ApiSearch requestt) in /home/appveyor/projects/jackett/src/Jackett.Server/Controllers/ResultsController.cs:line 227 Jackett.Common.IndexerException: Exception (animetosho): The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+ ---> System.Xml.XmlException: The 'hr' start tag on line 5 position 2 does not match the end tag of 'body'. Line 6, position 3.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   at System.Xml.XmlTextReaderImpl.ParseEndElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r)
+   at System.Xml.Linq.XContainer.ReadContentFrom(XmlReader r, LoadOptions o)
+   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text, LoadOptions options)
+   at System.Xml.Linq.XDocument.Parse(String text)
+   at Jackett.Common.Indexers.Feeds.BaseNewznabIndexer.ParseFeedForResults(String feedContent) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseNewznabIndexer.cs:line 22
+   at Jackett.Common.Indexers.Feeds.BaseFeedIndexer.PerformQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/Feeds/BaseFeedIndexer.cs:line 45
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 331
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 351
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query) in /home/appveyor/projects/jackett/src/Jackett.Common/Indexers/BaseIndexer.cs:line 819
+   at Jackett.Server.Controllers.ResultsController.Results(ApiSearch requestt) in /home/appveyor/projects/jackett/src/Jackett.Server/Controllers/ResultsController.cs:line 227
+2020-03-05 14:01:05.7956 Info Manual search for "brooklyn nine nine" on 1337x, acgrip, acgsou, alexfilm, anidex, animetosho, aniRena, bigfangroup, bitru, bittorrentam, corsarored, cpasbien, cpasbienclone, demonoid, dmhy, elitetorrent-biz, ettv, exttorrents, extratorrent-ag, eztv, firebit, focusx, frozenlayer, gktorrent, glodls, hdreactor, hon3yhd-net, horriblesubs, idope, ilcorsaroblu, ilcorsaronero, isohunt2, itorrent, kickasstorrent, kickasstorrent-kathow, legittorrents, limetorrents, magnetdl, newpct, nyaa-pantsu, nyaasi, rarbg, rutracker, thepiratebay, tokyotosho, underverse, yourbittorrent, zooqle with 726 results. 
