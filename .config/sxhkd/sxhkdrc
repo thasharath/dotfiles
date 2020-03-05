@@ -1,0 +1,35 @@
+## MPD controls
+alt + {Page_Down,Page_Up,p}
+	mpc {next,prev,toggle}
+alt + {k,j}
+	mpc volume {+5,-5}
+alt + {comma,period}
+	mpc seek {-2%,+2%}
+
+## dmenu
+super + e
+	/home/thasharath/.scripts/dmenuunicode
+super + d
+	dmenu_run
+
+## Play YouTube in MPV
+super + y
+	/home/thasharath/.scripts/youtube-mpv
+
+## Print Screen Commands
+Print
+	/home/thasharath/.scripts/scrot/fullscreen
+ctrl + Print
+	/home/thasharath/.scripts/scrot/selection
+shift + Print
+	/home/thasharath/.scripts/scrot/window
+ctrl + shift + Print
+	/home/thasharath/.scripts/scrot/select_window
+
+## Open Applications
+super + f
+	dolphin
+super + Return
+	rxvt-unicode
+super + b
+	firefox
