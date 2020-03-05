@@ -1,0 +1,2 @@
+
+mpv --no-fs --osd-level=3 --script-opts=osc-visibility=always --no-save-position-on-quit

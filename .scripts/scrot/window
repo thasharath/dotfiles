@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#Takes a screenshot of the fullscreen and sends a notification
+
+spectacle -bna && notify-send --icon=photoqt "Window Captured" "Screenshot of the active window saved."

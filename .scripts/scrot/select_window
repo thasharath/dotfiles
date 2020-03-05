@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#Takes a screenshot of the fullscreen and sends a notification
+
+spectacle -bnt && notify-send --icon=photoqt "Window Under the Cursor Captured" "Screenshot of the window under the cursor captured."

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+#Takes a screenshot of the fullscreen and sends a notification
+
+spectacle -bnr && notify-send --icon=photoqt "Selection Captured" "Screenshot of the selected section saved."

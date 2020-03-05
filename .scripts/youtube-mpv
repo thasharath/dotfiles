@@ -1,0 +1,4 @@
+#!/bin/sh
+
+notify-send --icon=youtube "Playing Video" "$(xclip -o)";
+mpv --cache 150 "$(xclip -o)"
