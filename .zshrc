@@ -179,4 +179,4 @@ export EDITOR=/usr/bin/vim
 
 #/home/thasharath/.scripts/ufetch-gnu2
 
-alias config='/usr/bin/git --git-dir=/home/thasharath/dotfiles/ --work-tree=/home/thasharath'
+alias config='/usr/bin/git --git-dir=/home/thasharath/.cfg/ --work-tree=/home/thasharath'
