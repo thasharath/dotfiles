@@ -32,4 +32,6 @@ super + f
 super + Return
 	rxvt-unicode
 super + b
-	firefox
+	/home/thasharath/.scripts/delete-history
+ctrl + Escape
+	systemmonitor

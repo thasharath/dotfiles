@@ -1,14 +1,3 @@
-rename alien.png
-rename terminator.jpg
-rename terminator-2.jpg
-rename drive.jpg
-ren.png
-rename apocalypse-now.png
-rename jaws-2.gif
-rename blade-runner-2049.jpg
-rename witch.jpg
-rename predator.jpg
-rename thin-red-line.jpg
 rename jurassic-park.jpg
 rename revenge-of-the-jedi.jpg
 rename tron.jpg
@@ -47,4 +36,15 @@ search south
 search scrip
 shell 
 open_with 
+rename vapor-2292.jpg
+rename vertigo.jpg
+rename nebula2098.png
+rename moon2086.jpg
+rename earth2035.png
+rename earth-from-saturn.jpg
+rename space-ship-launch.jpg
+bul
+bu
+rename 00.jpg
+mkcd zip
 bulkrename 

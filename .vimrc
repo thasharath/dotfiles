@@ -60,7 +60,7 @@ if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
 endif
 
-colorscheme solarized
+colorscheme dracula
 
 set wildmode=longest,list,full
 set bg=dark
@@ -81,7 +81,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#extensions#tabline#formatter = 'default'
 let g:airline_powerline_fonts = 1
 set t_Co=256
-let g:airline_theme='solarized'
+let g:airline_theme='dracula'
 
 " Save file as sudo on files that require root permission
 cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
@@ -93,3 +93,6 @@ autocmd BufWritePre * %s/\s\+$//e
 autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
 
 inoremap ii <Esc>
+
+let g:livepreview_previewer = 'zathura'
+

@@ -43037,3 +43037,591 @@ Mar 05 13:36 : avahi: Service 'Music Player' successfully established.
 Mar 05 13:36 : client: [0] opened from 127.0.0.1:46594
 Mar 05 15:59 : client: [0] closed
 Mar 05 16:25 : client: [1] opened from 127.0.0.1:54034
+Mar 05 17:35 : client: [2] opened from 127.0.0.1:55830
+Mar 05 17:35 : client: [3] opened from 127.0.0.1:55832
+Mar 05 17:35 : exception: Failed to open /home/thasharath/.config/mpd/playlists/[Radio Streams].m3u: No such file or directory
+Mar 05 17:35 : exception: No such playlist
+Mar 05 17:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 17:36 : client: [3] closed
+Mar 05 17:36 : client: [2] closed
+Mar 05 17:38 : player: played "English/AAC/Death Grips - The Money Store (Album)/01 Get Got.mp3"
+Mar 05 17:42 : player: played "English/AAC/Death Grips - The Money Store (Album)/02 The Fever (Aye Aye).mp3"
+Mar 05 17:45 : player: played "English/AAC/Death Grips - The Money Store (Album)/03 Lost Boys.mp3"
+Mar 05 17:47 : player: played "English/AAC/Death Grips - The Money Store (Album)/04 Blackjack.mp3"
+Mar 05 17:50 : client: [4] opened from 127.0.0.1:55870
+Mar 05 17:50 : client: [4] closed
+Mar 05 17:50 : client: [1] closed
+Mar 05 17:50 : exception: "pulse audio" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 05 17:50 : player: played "English/AAC/Death Grips - The Money Store (Album)/05 Hustle Bones.mp3"
+Mar 05 18:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 18:37 : client: [0] opened from 127.0.0.1:33888
+Mar 05 18:37 : avahi: Service 'Music Player' successfully established.
+Mar 05 18:38 : client: [1] opened from 127.0.0.1:33890
+Mar 05 18:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 18:38 : client: [1] closed
+Mar 05 18:39 : player: played "English/AAC/Death Grips - The Money Store (Album)/05 Hustle Bones.mp3"
+Mar 05 18:42 : player: played "English/AAC/Death Grips - The Money Store (Album)/06 I've Seen Footage.mp3"
+Mar 05 18:45 : player: played "English/AAC/Death Grips - The Money Store (Album)/07 Double Helix.mp3"
+Mar 05 18:47 : client: [2] opened from 127.0.0.1:34032
+Mar 05 18:47 : client: [2] closed
+Mar 05 19:21 : client: [3] opened from 127.0.0.1:36172
+Mar 05 19:21 : client: [3] closed
+Mar 05 19:23 : player: played "English/AAC/Death Grips - The Money Store (Album)/08 System Blower.mp3"
+Mar 05 19:23 : client: [4] opened from 127.0.0.1:36272
+Mar 05 19:23 : client: [4] closed
+Mar 05 19:58 : client: [5] opened from 127.0.0.1:37274
+Mar 05 19:58 : client: [5] closed
+Mar 05 19:58 : client: [6] opened from 127.0.0.1:37304
+Mar 05 19:58 : client: [6] closed
+Mar 05 19:58 : client: [7] opened from 127.0.0.1:37306
+Mar 05 19:58 : client: [7] closed
+Mar 05 19:58 : client: [8] opened from 127.0.0.1:37308
+Mar 05 19:58 : client: [8] closed
+Mar 05 19:58 : client: [9] opened from 127.0.0.1:37310
+Mar 05 19:58 : client: [9] closed
+Mar 05 19:58 : client: [10] opened from 127.0.0.1:37312
+Mar 05 19:58 : client: [10] closed
+Mar 05 19:58 : client: [11] opened from 127.0.0.1:37314
+Mar 05 19:58 : client: [11] closed
+Mar 05 19:59 : client: [12] opened from 127.0.0.1:37316
+Mar 05 19:59 : client: [12] closed
+Mar 05 20:00 : client: [13] opened from 127.0.0.1:37420
+Mar 05 20:00 : client: [13] closed
+Mar 05 20:50 : client: [0] closed
+Mar 05 20:50 : player: played "English/AAC/Death Grips - The Money Store (Album)/09 The Cage.mp3"
+Mar 05 21:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 21:13 : client: [0] opened from 127.0.0.1:45982
+Mar 05 21:13 : avahi: Service 'Music Player' successfully established.
+Mar 05 21:44 : client: [1] opened from 127.0.0.1:46020
+Mar 05 21:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 21:44 : client: [1] closed
+Mar 05 21:45 : player: played "English/AAC/Death Grips - The Money Store (Album)/09 The Cage.mp3"
+Mar 05 21:47 : client: [2] opened from 127.0.0.1:46582
+Mar 05 21:47 : client: [2] closed
+Mar 05 22:10 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 05 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 22:15 : client: [0] opened from 127.0.0.1:44646
+Mar 05 22:15 : avahi: Service 'Music Player' successfully established.
+Mar 06 03:30 : client: [0] closed
+Mar 06 03:30 : avahi: Client Disconnected, will reconnect shortly
+Mar 06 03:30 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 07:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 07:15 : avahi: Service 'Music Player' successfully established.
+Mar 06 07:15 : client: [0] opened from 127.0.0.1:59864
+Mar 06 08:00 : client: [0] closed
+Mar 06 08:00 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 08:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 08:27 : client: [0] opened from 127.0.0.1:50156
+Mar 06 08:27 : avahi: Service 'Music Player' successfully established.
+Mar 06 08:34 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 08:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 08:59 : client: [0] opened from 127.0.0.1:47538
+Mar 06 08:59 : avahi: Service 'Music Player' successfully established.
+Mar 06 09:33 : client: [0] closed
+Mar 06 09:33 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 09:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 09:40 : client: [0] opened from 127.0.0.1:54342
+Mar 06 09:40 : avahi: Service 'Music Player' successfully established.
+Mar 06 10:35 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 10:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 10:39 : client: [0] opened from 127.0.0.1:58316
+Mar 06 10:39 : avahi: Service 'Music Player' successfully established.
+Mar 06 10:57 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 10:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 11:00 : client: [0] opened from 127.0.0.1:34870
+Mar 06 11:00 : avahi: Service 'Music Player' successfully established.
+Mar 06 11:34 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 11:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 11:40 : avahi: Service 'Music Player' successfully established.
+Mar 06 11:40 : client: [0] opened from 127.0.0.1:60520
+Mar 06 11:41 : client: [1] opened from 127.0.0.1:60522
+Mar 06 11:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 11:41 : client: [1] closed
+Mar 06 11:42 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 06 11:45 : player: played "English/AAC/Death Grips - The Money Store (Album)/11 Fuck That.mp3"
+Mar 06 11:48 : player: played "English/AAC/Death Grips - The Money Store (Album)/12 Bitch Please.mp3"
+Mar 06 11:50 : client: [2] opened from 127.0.0.1:60526
+Mar 06 11:50 : client: [2] closed
+Mar 06 12:03 : client: [3] opened from 127.0.0.1:60572
+Mar 06 12:03 : client: [3] closed
+Mar 06 12:06 : player: played "English/AAC/Death Grips - The Money Store (Album)/13 Hacker.mp3"
+Mar 06 15:16 : client: [0] closed
+Mar 06 15:17 : avahi: Client Disconnected, will reconnect shortly
+Mar 06 15:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 15:25 : avahi: Service 'Music Player' successfully established.
+Mar 06 15:25 : client: [0] opened from 127.0.0.1:50928
+Mar 06 18:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 18:43 : avahi: Service 'Music Player' successfully established.
+Mar 06 18:43 : client: [0] opened from 127.0.0.1:57940
+Mar 06 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 20:27 : avahi: Service 'Music Player' successfully established.
+Mar 06 20:27 : client: [0] opened from 127.0.0.1:42230
+Mar 06 23:05 : client: [0] closed
+Mar 07 06:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 06:37 : avahi: Service 'Music Player' successfully established.
+Mar 07 06:37 : client: [0] opened from 127.0.0.1:47004
+Mar 07 07:42 : client: [0] closed
+Mar 07 08:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 08:00 : avahi: Service 'Music Player' successfully established.
+Mar 07 08:00 : client: [0] opened from 127.0.0.1:50010
+Mar 07 08:01 : client: [0] closed
+Mar 07 09:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 09:01 : avahi: Service 'Music Player' successfully established.
+Mar 07 09:01 : client: [0] opened from 127.0.0.1:48802
+Mar 07 09:43 : client: [0] closed
+Mar 07 10:04 : exception: Failed to open /home/thasharath/.config/mpd/state: No such file or directory
+Mar 07 10:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 10:04 : avahi: Service 'Music Player' successfully established.
+Mar 07 10:05 : client: [0] opened from 127.0.0.1:33728
+Mar 07 14:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 14:21 : avahi: Service 'Music Player' successfully established.
+Mar 07 14:21 : client: [0] opened from 127.0.0.1:43392
+Mar 07 15:41 : client: [0] closed
+Mar 07 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 16:15 : avahi: Service 'Music Player' successfully established.
+Mar 07 16:15 : client: [0] opened from 127.0.0.1:50840
+Mar 07 17:15 : client: [1] opened from 127.0.0.1:52150
+Mar 07 17:15 : client: [1] closed
+Mar 07 18:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:11 : avahi: Service 'Music Player' successfully established.
+Mar 07 18:12 : client: [0] opened from 127.0.0.1:57836
+Mar 07 18:18 : client: [1] opened from 127.0.0.1:57876
+Mar 07 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 18:20 : client: [2] opened from 127.0.0.1:57886
+Mar 07 18:20 : client: [2] closed
+Mar 07 18:23 : player: played "English/AAC/Death Grips - The Money Store (Album)/02 The Fever (Aye Aye).mp3"
+Mar 07 18:26 : player: played "English/AAC/Death Grips - The Money Store (Album)/03 Lost Boys.mp3"
+Mar 07 18:28 : player: played "English/AAC/Death Grips - The Money Store (Album)/04 Blackjack.mp3"
+Mar 07 18:29 : client: [1] closed
+Mar 07 18:31 : player: played "English/AAC/Death Grips - The Money Store (Album)/05 Hustle Bones.mp3"
+Mar 07 18:35 : player: played "English/AAC/Death Grips - The Money Store (Album)/06 I've Seen Footage.mp3"
+Mar 07 18:37 : player: played "English/AAC/Death Grips - The Money Store (Album)/07 Double Helix.mp3"
+Mar 07 18:41 : player: played "English/AAC/Death Grips - The Money Store (Album)/08 System Blower.mp3"
+Mar 07 18:45 : player: played "English/AAC/Death Grips - The Money Store (Album)/09 The Cage.mp3"
+Mar 07 18:48 : player: played "English/AAC/Death Grips - The Money Store (Album)/10 Punk Weight.mp3"
+Mar 07 18:51 : player: played "English/AAC/Death Grips - The Money Store (Album)/11 Fuck That.mp3"
+Mar 07 18:53 : player: played "English/AAC/Death Grips - The Money Store (Album)/12 Bitch Please.mp3"
+Mar 07 18:58 : client: [3] opened from 127.0.0.1:58214
+Mar 07 18:58 : client: [3] closed
+Mar 07 18:58 : client: [4] opened from 127.0.0.1:58216
+Mar 07 18:58 : client: [4] closed
+Mar 07 18:58 : player: played "English/AAC/Death Grips - The Money Store (Album)/13 Hacker.mp3"
+Mar 07 19:00 : client: [5] opened from 127.0.0.1:58292
+Mar 07 19:00 : player: played "English/The Midnight/The Midnight - Nocturnal/01 - Shadows.mp3"
+Mar 07 19:00 : client: [5] closed
+Mar 07 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 19:06 : avahi: Service 'Music Player' successfully established.
+Mar 07 19:06 : client: [0] opened from 127.0.0.1:36998
+Mar 07 22:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 07 22:12 : avahi: Service 'Music Player' successfully established.
+Mar 07 22:12 : client: [0] opened from 127.0.0.1:36598
+Mar 08 07:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 07:21 : avahi: Service 'Music Player' successfully established.
+Mar 08 07:21 : client: [0] opened from 127.0.0.1:39506
+Mar 08 10:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 10:52 : avahi: Service 'Music Player' successfully established.
+Mar 08 10:52 : client: [0] opened from 127.0.0.1:40624
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/01 - Very Very Bad.mp3
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/03 - Desaandhiri.mp3
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/02 - Kaathellam.mp3
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/04 - Manamengum Maaya Oonjal.mp3
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/05 - Theevira Vyaadhi.mp3
+Mar 08 13:10 : update: updating Tamil/Santhosh Narayanan/Santhosh Narayanan - Gypsy (Original Motion Picture Soundtrack)/06 - Venpura.mp3
+Mar 08 13:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 13:56 : avahi: Service 'Music Player' successfully established.
+Mar 08 13:56 : client: [0] opened from 127.0.0.1:57398
+Mar 08 14:01 : client: [1] opened from 127.0.0.1:57474
+Mar 08 14:01 : client: [1] closed
+Mar 08 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 14:29 : avahi: Service 'Music Player' successfully established.
+Mar 08 14:29 : client: [0] opened from 127.0.0.1:48996
+Mar 08 14:34 : client: [0] closed
+Mar 08 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 14:36 : avahi: Service 'Music Player' successfully established.
+Mar 08 14:36 : client: [0] opened from 127.0.0.1:35324
+Mar 08 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 14:53 : avahi: Service 'Music Player' successfully established.
+Mar 08 14:54 : client: [0] opened from 127.0.0.1:60286
+Mar 08 19:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 19:58 : avahi: Service 'Music Player' successfully established.
+Mar 08 19:59 : client: [0] opened from 127.0.0.1:43998
+Mar 08 21:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 08 21:34 : avahi: Service 'Music Player' successfully established.
+Mar 08 21:34 : client: [0] opened from 127.0.0.1:45682
+Mar 08 23:24 : client: [0] closed
+Mar 09 07:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 07:55 : avahi: Service 'Music Player' successfully established.
+Mar 09 07:55 : client: [0] opened from 127.0.0.1:52790
+Mar 09 12:26 : client: [0] closed
+Mar 09 13:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 13:22 : avahi: Service 'Music Player' successfully established.
+Mar 09 13:22 : client: [0] opened from 127.0.0.1:48350
+Mar 09 17:49 : client: [1] opened from 127.0.0.1:51758
+Mar 09 17:49 : client: [1] closed
+Mar 09 18:41 : client: [0] closed
+Mar 09 18:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 18:47 : avahi: Service 'Music Player' successfully established.
+Mar 09 18:47 : client: [0] opened from 127.0.0.1:39154
+Mar 09 20:04 : client: [0] closed
+Mar 09 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 20:34 : avahi: Service 'Music Player' successfully established.
+Mar 09 20:35 : client: [0] opened from 127.0.0.1:48572
+Mar 09 21:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 21:18 : avahi: Service 'Music Player' successfully established.
+Mar 09 21:18 : client: [0] opened from 127.0.0.1:55362
+Mar 10 07:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 07:03 : avahi: Service 'Music Player' successfully established.
+Mar 10 07:03 : client: [0] opened from 127.0.0.1:59562
+Mar 10 09:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 09:45 : avahi: Service 'Music Player' successfully established.
+Mar 10 09:45 : client: [0] opened from 127.0.0.1:47998
+Mar 10 11:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 11:43 : avahi: Service 'Music Player' successfully established.
+Mar 10 11:43 : client: [0] opened from 127.0.0.1:47106
+Mar 10 11:53 : client: [1] opened from 127.0.0.1:47592
+Mar 10 11:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 10 11:54 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 10 11:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 11:58 : player: played "English/6LACK/6LACK - East Atlanta Love Letter/06 Pretty Little Fears (feat. J. Col.m4a"
+Mar 10 12:01 : player: played "English/Sooooongs/Sooooooooooooooooongs/Love Love Love.mp3"
+Mar 10 12:05 : client: [1] closed
+Mar 10 15:55 : client: [2] opened from 127.0.0.1:49904
+Mar 10 15:55 : client: [2] closed
+Mar 10 15:56 : client: [0] closed
+Mar 10 15:56 : avahi: Client Disconnected, will reconnect shortly
+Mar 10 16:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 16:03 : avahi: Service 'Music Player' successfully established.
+Mar 10 16:03 : client: [0] opened from 127.0.0.1:48082
+Mar 10 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 16:09 : avahi: Service 'Music Player' successfully established.
+Mar 10 16:09 : client: [0] opened from 127.0.0.1:44366
+Mar 10 16:10 : client: [0] closed
+Mar 10 18:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 18:13 : avahi: Service 'Music Player' successfully established.
+Mar 10 18:13 : client: [0] opened from 127.0.0.1:42422
+Mar 10 20:33 : client: [0] closed
+Mar 10 20:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 20:37 : avahi: Service 'Music Player' successfully established.
+Mar 10 20:37 : client: [0] opened from 127.0.0.1:40022
+Mar 11 03:00 : client: [0] closed
+Mar 11 07:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 07:05 : avahi: Service 'Music Player' successfully established.
+Mar 11 07:06 : client: [0] opened from 127.0.0.1:34156
+Mar 11 07:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 07:11 : avahi: Service 'Music Player' successfully established.
+Mar 11 07:11 : client: [0] opened from 127.0.0.1:36612
+Mar 11 09:33 : client: [0] closed
+Mar 11 09:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 09:38 : avahi: Service 'Music Player' successfully established.
+Mar 11 09:38 : client: [0] opened from 127.0.0.1:57744
+Mar 11 11:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 11:29 : avahi: Service 'Music Player' successfully established.
+Mar 11 11:29 : client: [0] opened from 127.0.0.1:37354
+Mar 11 15:45 : client: [0] closed
+Mar 11 16:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 16:07 : avahi: Service 'Music Player' successfully established.
+Mar 11 16:08 : client: [0] opened from 127.0.0.1:40584
+Mar 11 19:09 : client: [0] closed
+Mar 11 19:09 : avahi: Client Disconnected, will reconnect shortly
+Mar 11 19:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 19:25 : avahi: Service 'Music Player' successfully established.
+Mar 11 19:25 : client: [0] opened from 127.0.0.1:40818
+Mar 12 07:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 07:59 : avahi: Service 'Music Player' successfully established.
+Mar 12 07:59 : client: [0] opened from 127.0.0.1:55478
+Mar 12 10:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 10:22 : avahi: Service 'Music Player' successfully established.
+Mar 12 10:22 : client: [0] opened from 127.0.0.1:57598
+Mar 12 13:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 13:02 : avahi: Service 'Music Player' successfully established.
+Mar 12 13:02 : client: [0] opened from 127.0.0.1:40018
+Mar 12 20:25 : client: [0] closed
+Mar 12 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 20:44 : avahi: Service 'Music Player' successfully established.
+Mar 12 20:45 : client: [0] opened from 127.0.0.1:55002
+Mar 13 07:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 07:47 : avahi: Service 'Music Player' successfully established.
+Mar 13 07:47 : client: [0] opened from 127.0.0.1:33524
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/03 - Delete Forever.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/01 - So Heavy I Fell Through the Earth (Art Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/02 - Darkseid.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/04 - Violence (Original Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/05 - 4ÆM.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/06 - New Gods.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/07 - My Name is Dark (Art Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/09 - Before the fever.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/08 - You'll miss me when I'm not around.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/10 - IDORU.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/11 - We Appreciate Power.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/12 - So Heavy I Fell Through the Earth (Algorithm Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/13 - Violence (Club Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/14 - My Name is Dark (Algorithm Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Miss Anthropocene (Deluxe Edition)/15 - IDORU (Algorithm Mix).mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/01 - laughing and not being normal.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/02 - California.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/03 - SCREAM.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/04 - Flesh without Blood.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/05 - Belly of the Beat.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/06 - Kill V. Maim.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/08 - Easily.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/07 - Artangels.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/09 - Pin.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/10 - Realiti.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/11 - World Princess part II.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/12 - Venus Fly.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/13 - Life in the Vivid Dream.mp3
+Mar 13 08:17 : update: added English/Grimes/Grimes - Art Angels/14 - Butterfly.mp3
+Mar 13 08:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 08:56 : avahi: Service 'Music Player' successfully established.
+Mar 13 08:57 : client: [0] opened from 127.0.0.1:39538
+Mar 13 10:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 10:48 : avahi: Service 'Music Player' successfully established.
+Mar 13 10:48 : client: [0] opened from 127.0.0.1:33068
+Mar 13 13:18 : client: [0] closed
+Mar 13 13:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 13:21 : avahi: Service 'Music Player' successfully established.
+Mar 13 13:22 : client: [0] opened from 127.0.0.1:49846
+Mar 13 13:22 : client: [0] closed
+Mar 13 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 18:28 : avahi: Service 'Music Player' successfully established.
+Mar 13 18:28 : client: [0] opened from 127.0.0.1:60872
+Mar 13 18:29 : client: [0] closed
+Mar 14 01:38 : avahi: Client Disconnected, will reconnect shortly
+Mar 14 07:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 07:15 : avahi: Service 'Music Player' successfully established.
+Mar 14 07:16 : client: [0] opened from 127.0.0.1:46002
+Mar 14 10:51 : client: [0] closed
+Mar 14 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 11:27 : avahi: Service 'Music Player' successfully established.
+Mar 14 11:27 : client: [0] opened from 127.0.0.1:56954
+Mar 14 13:23 : client: [0] closed
+Mar 14 13:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 13:26 : avahi: Service 'Music Player' successfully established.
+Mar 14 13:27 : client: [0] opened from 127.0.0.1:33484
+Mar 14 16:38 : client: [0] closed
+Mar 14 16:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 16:46 : avahi: Service 'Music Player' successfully established.
+Mar 14 16:46 : client: [0] opened from 127.0.0.1:44316
+Mar 14 22:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 22:31 : avahi: Service 'Music Player' successfully established.
+Mar 14 22:31 : client: [0] opened from 127.0.0.1:55796
+Mar 15 01:10 : client: [0] closed
+Mar 15 06:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 06:50 : avahi: Service 'Music Player' successfully established.
+Mar 15 06:50 : client: [0] opened from 127.0.0.1:55984
+Mar 15 14:11 : client: [0] closed
+Mar 15 14:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 14:15 : avahi: Service 'Music Player' successfully established.
+Mar 15 14:15 : client: [0] opened from 127.0.0.1:51290
+Mar 15 18:25 : client: [1] opened from 127.0.0.1:52218
+Mar 15 18:25 : exception: Not playing
+Mar 15 18:25 : client: [1] closed
+Mar 15 18:25 : client: [2] opened from 127.0.0.1:52220
+Mar 15 18:25 : exception: Not playing
+Mar 15 18:25 : client: [2] closed
+Mar 15 18:25 : client: [3] opened from 127.0.0.1:52222
+Mar 15 18:25 : exception: Not playing
+Mar 15 18:25 : client: [3] closed
+Mar 15 18:25 : client: [4] opened from 127.0.0.1:52224
+Mar 15 18:25 : exception: Not playing
+Mar 15 18:25 : client: [4] closed
+Mar 15 18:44 : client: [5] opened from 127.0.0.1:52366
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [5] closed
+Mar 15 18:44 : client: [6] opened from 127.0.0.1:52368
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [6] closed
+Mar 15 18:44 : client: [7] opened from 127.0.0.1:52370
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [7] closed
+Mar 15 18:44 : client: [8] opened from 127.0.0.1:52372
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [8] closed
+Mar 15 18:44 : client: [9] opened from 127.0.0.1:52374
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [9] closed
+Mar 15 18:44 : client: [10] opened from 127.0.0.1:52376
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [10] closed
+Mar 15 18:44 : client: [11] opened from 127.0.0.1:52378
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [11] closed
+Mar 15 18:44 : client: [12] opened from 127.0.0.1:52380
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [12] closed
+Mar 15 18:44 : client: [13] opened from 127.0.0.1:52382
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [13] closed
+Mar 15 18:44 : client: [14] opened from 127.0.0.1:52384
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [14] closed
+Mar 15 18:44 : client: [15] opened from 127.0.0.1:52386
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [15] closed
+Mar 15 18:44 : client: [16] opened from 127.0.0.1:52388
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [16] closed
+Mar 15 18:44 : client: [17] opened from 127.0.0.1:52390
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [17] closed
+Mar 15 18:44 : client: [18] opened from 127.0.0.1:52392
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [18] closed
+Mar 15 18:44 : client: [19] opened from 127.0.0.1:52394
+Mar 15 18:44 : exception: Not playing
+Mar 15 18:44 : client: [19] closed
+Mar 15 21:30 : client: [20] opened from 127.0.0.1:54252
+Mar 15 21:30 : client: [20] closed
+Mar 15 21:30 : client: [21] opened from 127.0.0.1:54254
+Mar 15 21:30 : client: [21] closed
+Mar 15 23:42 : client: [0] closed
+Mar 16 10:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 10:36 : avahi: Service 'Music Player' successfully established.
+Mar 16 10:36 : client: [0] opened from 127.0.0.1:41080
+Mar 16 11:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 11:37 : avahi: Service 'Music Player' successfully established.
+Mar 16 11:37 : client: [0] opened from 127.0.0.1:39092
+Mar 16 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 14:29 : avahi: Service 'Music Player' successfully established.
+Mar 16 14:29 : client: [0] opened from 127.0.0.1:37688
+Mar 16 23:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 23:52 : avahi: Service 'Music Player' successfully established.
+Mar 16 23:52 : client: [0] opened from 127.0.0.1:35614
+Mar 17 06:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 06:37 : client: [0] opened from 127.0.0.1:43134
+Mar 17 06:37 : avahi: Service 'Music Player' successfully established.
+Mar 17 07:25 : client: [0] closed
+Mar 17 07:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 07:29 : client: [0] opened from 127.0.0.1:57938
+Mar 17 07:29 : avahi: Service 'Music Player' successfully established.
+Mar 17 08:04 : client: [0] closed
+Mar 17 09:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 09:42 : client: [0] opened from 127.0.0.1:59908
+Mar 17 09:42 : avahi: Service 'Music Player' successfully established.
+Mar 17 11:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 11:34 : avahi: Service 'Music Player' successfully established.
+Mar 17 11:34 : client: [0] opened from 127.0.0.1:53344
+Mar 17 15:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 17 15:17 : avahi: Service 'Music Player' successfully established.
+Mar 17 15:17 : client: [0] opened from 127.0.0.1:45422
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/05 Beat of Master (Instrumental).mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/07 Pona Pogattum.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/02 Andha Kanna Paathaakaa.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/08 Vaathi Raid.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/04 Quit Pannuda.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/06 Polakattum Para Para.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/01 Vaathi Coming.mp3
+Mar 17 19:49 : update: added Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/03 Kutti Story.mp3
+Mar 18 07:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 07:22 : client: [0] opened from 127.0.0.1:46520
+Mar 18 07:22 : avahi: Service 'Music Player' successfully established.
+Mar 18 07:23 : client: [0] closed
+Mar 18 08:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 08:17 : client: [0] opened from 127.0.0.1:59084
+Mar 18 08:17 : avahi: Service 'Music Player' successfully established.
+Mar 18 08:17 : client: [0] closed
+Mar 18 08:28 : client: [1] opened from 127.0.0.1:59178
+Mar 18 11:21 : client: [1] closed
+Mar 18 11:25 : client: [2] opened from 127.0.0.1:60448
+Mar 18 11:37 : client: [2] closed
+Mar 18 11:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 11:47 : avahi: Service 'Music Player' successfully established.
+Mar 18 11:47 : client: [0] opened from 127.0.0.1:58480
+Mar 18 11:57 : client: [0] closed
+Mar 18 11:57 : client: [1] opened from 127.0.0.1:58534
+Mar 18 15:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 15:58 : client: [0] opened from 127.0.0.1:54272
+Mar 18 15:58 : avahi: Service 'Music Player' successfully established.
+Mar 19 06:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 06:28 : client: [0] opened from 127.0.0.1:37420
+Mar 19 06:28 : avahi: Service 'Music Player' successfully established.
+Mar 19 07:24 : client: [0] closed
+Mar 19 07:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 07:28 : avahi: Service 'Music Player' successfully established.
+Mar 19 07:28 : client: [0] opened from 127.0.0.1:51078
+Mar 19 07:35 : update: added English/Lana Del Rey/01 Young And Beautiful.mp3
+Mar 19 07:36 : update: added English/Sooooongs/12 Experience.mp3
+Mar 19 07:36 : update: added English/Sooooongs/01 Wonderwall.mp3
+Mar 19 10:10 : client: [0] closed
+Mar 19 11:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 11:45 : avahi: Service 'Music Player' successfully established.
+Mar 19 11:45 : client: [0] opened from 127.0.0.1:37480
+Mar 19 11:46 : client: [0] closed
+Mar 19 12:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 12:19 : avahi: Service 'Music Player' successfully established.
+Mar 19 12:19 : client: [0] opened from 127.0.0.1:40212
+Mar 19 12:52 : client: [0] closed
+Mar 19 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 12:54 : avahi: Service 'Music Player' successfully established.
+Mar 19 12:54 : client: [0] opened from 127.0.0.1:40342
+Mar 19 14:11 : client: [0] closed
+Mar 19 14:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 14:14 : avahi: Service 'Music Player' successfully established.
+Mar 19 14:15 : client: [0] opened from 127.0.0.1:44306
+Mar 19 14:44 : update: removing English/Lana Del Rey/01 Young And Beautiful.mp3
+Mar 19 14:44 : update: added English/Lana Del Rey/01 Young And Beautiful.mp3
+Mar 19 15:21 : client: [1] opened from 127.0.0.1:46664
+Mar 19 15:21 : client: [1] closed
+Mar 19 15:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 19 15:21 : ffmpeg/aac: Could not update timestamps for skipped samples.
+Mar 19 15:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 15:21 : client: [2] opened from 127.0.0.1:46666
+Mar 19 15:21 : client: [2] closed
+Mar 19 15:21 : client: [3] opened from 127.0.0.1:46670
+Mar 19 15:21 : client: [3] closed
+Mar 19 15:21 : client: [4] opened from 127.0.0.1:46672
+Mar 19 15:21 : client: [4] closed
+Mar 19 17:29 : client: [5] opened from 127.0.0.1:47860
+Mar 19 17:29 : client: [5] closed
+Mar 19 17:29 : client: [6] opened from 127.0.0.1:47862
+Mar 19 17:29 : client: [6] closed
+Mar 19 17:29 : client: [7] opened from 127.0.0.1:47864
+Mar 19 17:29 : player: played "English/Sooooongs/Sooooooooooooooooongs/Love Love Love.mp3"
+Mar 19 17:29 : client: [7] closed
+Mar 19 17:29 : client: [8] opened from 127.0.0.1:47866
+Mar 19 17:29 : exception: Not playing
+Mar 19 17:29 : client: [8] closed
+Mar 19 18:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 18:17 : avahi: Service 'Music Player' successfully established.
+Mar 19 18:17 : client: [0] opened from 127.0.0.1:44572
+Mar 19 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 19 20:14 : avahi: Service 'Music Player' successfully established.
+Mar 19 20:14 : client: [0] opened from 127.0.0.1:54822
+Mar 20 06:14 : client: [0] closed
+Mar 20 06:14 : avahi: Client Disconnected, will reconnect shortly
+Mar 20 08:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 08:10 : avahi: Service 'Music Player' successfully established.
+Mar 20 08:10 : client: [0] opened from 127.0.0.1:34954
+Mar 20 11:28 : client: [0] closed
+Mar 20 11:28 : avahi: Client Disconnected, will reconnect shortly
+Mar 20 11:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 11:52 : avahi: Service 'Music Player' successfully established.
+Mar 20 11:52 : client: [0] opened from 127.0.0.1:53058
+Mar 20 13:01 : update: updating Tamil/Anirudh Ravichander/Master (Original Motion Picture Soundtrack) (Album)/04 Quit Pannuda.mp3
+Mar 20 16:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 16:08 : avahi: Service 'Music Player' successfully established.
+Mar 20 16:09 : client: [0] opened from 127.0.0.1:59294
+Mar 20 20:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 20:31 : avahi: Service 'Music Player' successfully established.
+Mar 20 20:31 : client: [0] opened from 127.0.0.1:35694
+Mar 20 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 20:56 : avahi: Service 'Music Player' successfully established.
+Mar 20 20:56 : client: [0] opened from 127.0.0.1:48918
+Mar 20 21:00 : client: [0] closed
+Mar 20 21:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:10 : avahi: Service 'Music Player' successfully established.
+Mar 20 21:11 : client: [0] opened from 127.0.0.1:35546
+Mar 21 00:23 : client: [0] closed
+Mar 21 07:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 07:10 : avahi: Service 'Music Player' successfully established.
+Mar 21 07:11 : client: [0] opened from 127.0.0.1:55738
+Mar 21 07:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 07:44 : avahi: Service 'Music Player' successfully established.
+Mar 21 07:45 : client: [0] opened from 127.0.0.1:49864
+Mar 21 10:27 : client: [0] closed
+Mar 21 10:27 : avahi: Client Disconnected, will reconnect shortly
+Mar 21 10:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 10:32 : avahi: Service 'Music Player' successfully established.
+Mar 21 10:32 : client: [0] opened from 127.0.0.1:33232
+Mar 21 11:23 : client: [1] opened from 127.0.0.1:34094
+Mar 21 11:23 : client: [1] closed
