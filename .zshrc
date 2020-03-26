@@ -181,4 +181,8 @@ export EDITOR=/usr/bin/vim
 
 alias config='/usr/bin/git --git-dir=/home/thasharath/.cfg/ --work-tree=/home/thasharath'
 alias neofetch='neofetch --w3m /home/thasharath/Pictures/pictures/pepe/pepe-0217.png'
-alias ytd='youtube-dl -f 22  --write-sub'
+alias ytd='youtube-dl -f 136+140  --write-sub'
+alias weather='curl wttr.in'
+alias b='buku --suggest'
+
+coronal

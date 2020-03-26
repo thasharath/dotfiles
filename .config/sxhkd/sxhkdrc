@@ -34,4 +34,6 @@ super + Return
 super + b
 	/home/thasharath/.scripts/delete-history
 ctrl + Escape
-	systemmonitor
+	rxvt-unicode -geometry 160x100 -e htop
+super + l
+	/home/thasharath/.scripts/open-link
