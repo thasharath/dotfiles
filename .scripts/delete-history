@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm -f /home/thasharath/.config/chromium/Default/History /home/thasharath/.config/chromium/Default/History-journal '/home/thasharath/.config/chromium/Default/History Provider Cache' && chromium &
