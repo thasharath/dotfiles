@@ -2,7 +2,7 @@
 !urxvt.termName: rxvt-unicode
 !urxvt.termName: terminal
 
-URxvt.font:xft:Hack:style=Regular:size=10,xft:MesloLGS NF:style=Regular:size=10,xft:Noto Color Emoji:style=Regular:size=10,xft:Lohit  Tamil:style=Regular:size=10
+URxvt.font:xft:Source Code Pro:style=Regular:size=10,xft:Hack:style=Regular:size=10,xft:MesloLGS NF:style=Regular:size=12,xft:Noto Color Emoji:style=Regular:size=10,xft:Lohit  Tamil:style=Regular:size=10
 !URxvt.boldFont: xft:MesloLGS NF:style=Bold:size=10
 !URxvt.italicFont: xft:MesloLGS NF:style=Italic:size=10
 !URxvt.boldItalicfont: xft:MesloLGS NF:style=Bold Italic:size=10
@@ -124,7 +124,7 @@ st.background: #282A36
 /* *.color6:                  S_cyan */
 /* *.color7:                  S_base2 */
 /* *.color9:                  S_orange */
-/* *.color8:                  015873 */
+/* *.color8:                  #015873 */
 /* *.color10:                 S_base01 */
 /* *.color11:                 S_base00 */
 /* *.color12:                 S_base0 */
@@ -236,7 +236,7 @@ st.background: #282A36
 /* ! Brogrammer */
 /* ! */
 /* *.foreground:  #d6dbe5 */
-/* *.background:  [95]#131313 */
+/* *.background:  #131313 */
 /* *.cursorColor: magenta */
 /* ! */
 /* ! Black */
@@ -277,8 +277,8 @@ st.background: #282A36
 /* !*.colorUL: */
 
 st.alpha: 	0.97
-st.font: 	MesloLGS NF-11
-st.bold_font:	1
+st.font: 	Source Code Pro-11
+/* st.bold_font:	0 */
 st.termname:	xterm-256color
 st.shell:	/bin/zsh
 

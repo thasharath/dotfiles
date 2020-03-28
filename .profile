@@ -9,7 +9,7 @@
 #umask 022
 
 export EDITOR="vim"
-export TERMINAL="rxvt-unicode"
+export TERM="st"
 export BROWSER="firefox"
 export READER="zathura"
 export FILE="dolphin"

@@ -132,10 +132,5 @@ alias jackett='Documents/Jackett/jackett'
 
 VISUAL=vim; export VISUAL EDITOR=vim; export EDITOR
 
-#export PS1="\[$(tput bold)\]\[$(tput setaf 4)\][\[$(tput setaf 4)\]\u\[$(tput setaf 5)\]@\[$(tput setaf 4)\]\h \[$(tput setaf 2)\]\W\[$(tput setaf 4)\]]\[$(tput setaf 2)\]\\$ \[$(tput sgr0)\]"
+export PS1="\n\[$(tput bold)\] \[$(tput sgr0)\]\[\033[38;5;4m\]\W\[$(tput sgr0)\]\n\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;2m\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\]"
 
-#export PS1="\[$(tput bold)\]\[$(tput setaf 1)\] [\[$(tput setaf 3)\]\u\[$(tput setaf 1)\]@\[$(tput setaf 4)\]\h\[$(tput setaf 1)\]] \[$(tput setaf 6)\]\w \[$(tput setaf 2)\]\\$ \n\[$(tput sgr0)\]>>\[$(tput sgr0)\]"
-
-#export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 3)\]\u\[$(tput setaf 2)\]@\[$(tput setaf 4)\]\h\[$(tput setaf 1)\]] \[$(tput setaf 5)\]\w \[$(tput setaf 1)\]\\$ \[$(tput sgr0)\]\[$(tput sgr0)\]"
-
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash

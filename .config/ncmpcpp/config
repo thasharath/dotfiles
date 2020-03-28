@@ -538,7 +538,7 @@ statusbar_time_color = default:b
 
 player_state_color = default:b
 
-alternative_ui_separator_color = black:b
+alternative_ui_separator_color = default
 
 window_border_color = default
 
