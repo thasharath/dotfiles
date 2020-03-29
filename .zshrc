@@ -146,10 +146,11 @@ export LANG=en_GB.utf-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias rm="rm -i"
-alias jackett="Documents/Jackett/jackett"
-alias radarr="sudo mono --debug Documents/Radarr/Radarr.exe"
+alias jackett="/home/thasharath/Applications/Jackett/jackett"
+alias radarr="sudo mono --debug /home/thasharath/Applications/Radarr/Radarr.exe"
 alias la="ls -a"
 alias l="ls -lh"
+alias ll="ls -lah"
 
 #LANG="en_US.UTF-8"
 #LC_COLLATE="en_US.UTF-8"
@@ -186,3 +187,8 @@ alias weather='curl wttr.in'
 alias b='buku --suggest'
 
 # coronal
+# tput smkx
+
+bindkey '^[[P'	delete-char		#delete
+bindkey '^[[H'	beginning-of-line	#home
+bindkey '^[[4~'	end-of-line		#end

@@ -84,7 +84,7 @@ visualizer_type = spectrum
 #
 visualizer_look = ▋▋
 #
-#visualizer_color = 212
+visualizer_color = 212
 #visualizer_color = blue, cyan, green, yellow, magenta, red
 #
 ## Alternative subset of 256 colors for terminals that support it.
@@ -186,11 +186,11 @@ $R - begin right alignment
 #
 #song_status_format = {{%a{ "%b"{ (%y)}} - }{%t}}|{%f}
 #
-song_library_format = {%n - }{%t}|{%f}
+song_library_format = {%n - }{%t}|{%f}{$R%l}
 #
-alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
+ # alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
 #
-alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%D}
+ # alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%D}
 #
 #current_item_prefix = $(yellow)$r
 #
@@ -206,9 +206,9 @@ alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%
 #
 #browser_playlist_prefix = "$2playlist$9 "
 #
-#selected_item_prefix = $6
+selected_item_prefix = $6
 #
-#selected_item_suffix = $9
+selected_item_suffix = $9
 #
 #modified_item_prefix = $3> $9
 #
@@ -291,7 +291,7 @@ playlist_shorten_total_times = yes
 ##
 ## Note: Possible display modes: classic, columns.
 ##
-#playlist_display_mode = classic
+playlist_display_mode = classic
 #
 #browser_display_mode = classic
 #
@@ -305,7 +305,7 @@ playlist_shorten_total_times = yes
 #
 #incremental_seeking = yes
 #
-#seek_time = 1
+seek_time = 10
 #
 #volume_change_step = 2
 #
@@ -318,7 +318,7 @@ playlist_shorten_total_times = yes
 ## part of progressbar.
 ##
 #progressbar_look "▃▃▃"
-progressbar_look = "─⊙ "
+progressbar_look = "▃__"
 #
 ## Available values: database, playlist.
 ##
@@ -334,7 +334,7 @@ user_interface = alternative
 ##
 media_library_primary_tag = album_artist
 #
-media_library_albums_split_by_date = no
+media_library_albums_split_by_date = yes
 
 #
 ## Available values: wrapped, normal.
@@ -343,7 +343,7 @@ media_library_albums_split_by_date = no
 #
 #default_tag_editor_pattern = %n - %t
 #
-header_visibility = yes
+header_visibility = no
 #
 statusbar_visibility = yes
 #
@@ -353,7 +353,7 @@ statusbar_visibility = yes
 #
 #cyclic_scrolling = no
 #
-#lines_scrolled = 2
+lines_scrolled = 2
 #
 #lyrics_fetchers = lyricwiki, azlyrics, genius, sing365, lyricsmania, metrolyrics, justsomelyrics, jahlyrics, plyrics, tekstowo, internet
 #
@@ -365,7 +365,7 @@ follow_now_playing_lyrics = yes
 #
 #generate_win32_compatible_filenames = yes
 #
-#allow_for_physical_item_deletion = no
+allow_for_physical_item_deletion = no
 #
 ##
 ## Note: If you set this variable, ncmpcpp will try to get info from last.fm in
@@ -421,7 +421,7 @@ startup_screen = media_library
 #
 #display_volume_level = yes
 #
-#display_bitrate = no
+display_bitrate = yes
 #
 #display_remaining_time = no
 #
@@ -446,7 +446,7 @@ startup_screen = media_library
 #
 #mouse_support = yes
 #
-#mouse_list_scroll_whole_page = yes
+mouse_list_scroll_whole_page = no
 #
 #empty_tag_marker = <empty>
 #
@@ -474,7 +474,7 @@ enable_window_title = yes
 #
 #search_engine_default_search_mode = 1
 #
-#external_editor = nano
+external_editor = vim
 #
 ## Note: set to yes if external editor is a console application.
 ##
@@ -514,49 +514,41 @@ colors_enabled = yes
 
 empty_tag_color = default
 
-header_window_color = default
+header_window_color = cyan
 
-volume_color = default
+volume_color = green:b
 
-state_line_color = default
+state_line_color = blue:b
 
-state_flags_color = default:b
+state_flags_color = green:b
 
 main_window_color = default
 
-#color1 = white
+statusbar_color = yellow
 
-#color2 = green
+statusbar_time_color = green:b
 
-#progressbar_color = black:b
+player_state_color = green:b
 
-#progressbar_elapsed_color = green:b
+alternative_ui_separator_color = blue:b
 
-statusbar_color = default
+window_border_color = blue
 
-statusbar_time_color = default:b
-
-player_state_color = default:b
-
-alternative_ui_separator_color = default
-
-window_border_color = default
-
-active_window_border = default
+active_window_border = blue
 
 #uncomment both statement's below if you want to display the albumart
 
-main_window_highlight_color = "default"
+main_window_highlight_color = "99"
 
 #progressbar_look = "▁▁▁"
 progressbar_color = "default"
-progressbar_elapsed_color = "default"
+progressbar_elapsed_color = "blue"
 
-#song_list_format = " $8%a • %t"
-#song_status_format = " $6%a  $7%t  $5%b "
+song_list_format = " {%t}|{%f} {$R%a} {$R%l}"
+song_status_format = " $6%a  $7%t  $5%b "
 
-#now_playing_prefix = "$b$2▶ "
-#now_playing_suffix = "$8$/b"
+now_playing_prefix = "$b$(blue)▶ "
+now_playing_suffix = " $(end)$/b"
 
 #song_columns_list_format = "(8f)[black]{l}  (32)[red]{a} (42)[yellow]{t|f} (18)[magenta]{b}"
 

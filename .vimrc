@@ -91,7 +91,7 @@ autocmd BufWritePre * %s/\s\+$//e
 
 " Run xrdb whenever Xdefaults or Xresources are updated.
 autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
-autocmd BufWritePost /home/thasharath/Documents/appimage/st-master/* !sudo make install
+autocmd BufWritePost /home/thasharath/Applications/st-master/* !sudo make install
 
 inoremap ii <Esc>
 
