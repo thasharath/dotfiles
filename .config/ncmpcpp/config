@@ -107,7 +107,8 @@ visualizer_color = 212
 #
 ##### delays #####
 #
-## Time of inactivity (in seconds) after playlist highlighting will be disabled
+## Time of inactivity (in seconds) after playlist
+ highlighting will be disabled
 ## (0 = always on).
 ##
 playlist_disable_highlight_delay = 5
@@ -182,11 +183,14 @@ $R - begin right alignment
 ## Note: colors can be nested.
 ##
 #
-#song_list_format = {%a - }{%t}|{$8%f$9}$R{$3(%l)$9}
+song_list_format = " {%t ⚫️ %a}|{%f ⚫️ %A} $R%b | %l"
 #
-#song_status_format = {{%a{ "%b"{ (%y)}} - }{%t}}|{%f}
+song_status_format = " $6%a  $7%t  $5%b "
 #
 song_library_format = {%n - }{%t}|{%f}{$R%l}
+#
+alternative_header_first_line_format ="$(cyan){$b%a - %t}|{%f}$(end)"
+alternative_header_second_line_format ="$(blue)%b - %A - %y$(end)"
 #
  # alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
 #
@@ -200,9 +204,9 @@ song_library_format = {%n - }{%t}|{%f}{$R%l}
 #
 #current_item_inactive_column_suffix = $/r$(end)
 #
-#now_playing_prefix = $b
+now_playing_prefix = "$b$(blue)$(red)▶️$(end) "
 #
-#now_playing_suffix = $/b
+now_playing_suffix = "$/b$(end)"
 #
 #browser_playlist_prefix = "$2playlist$9 "
 #
@@ -262,7 +266,7 @@ selected_item_suffix = $9
 ##   available.
 ##
 #
-#song_columns_list_format = (20)[]{a} (6f)[green]{NE} (50)[white]{t|f:Title} (20)[cyan]{b} (7f)[magenta]{l}
+song_columns_list_format = (30)[]{a} (6f)[]{NE} (35)[]{t|f:Title} (40)[]{b} (7f)[]{l}
 #
 ##### various settings #####
 #
@@ -291,13 +295,13 @@ playlist_shorten_total_times = yes
 ##
 ## Note: Possible display modes: classic, columns.
 ##
-playlist_display_mode = classic
+playlist_display_mode = columns
 #
 #browser_display_mode = classic
 #
 #search_engine_display_mode = classic
 #
-#playlist_editor_display_mode = classic
+playlist_editor_display_mode = columns
 #
 #discard_colors_if_item_is_selected = yes
 #
@@ -319,6 +323,8 @@ seek_time = 10
 ##
 #progressbar_look "▃▃▃"
 progressbar_look = "▃__"
+progressbar_color = "default"
+progressbar_elapsed_color = "blue"
 #
 ## Available values: database, playlist.
 ##
@@ -347,7 +353,7 @@ header_visibility = no
 #
 statusbar_visibility = yes
 #
-#titles_visibility = yes
+titles_visibility = no
 #
 #header_text_scrolling = yes
 #
@@ -395,7 +401,7 @@ allow_for_physical_item_deletion = no
 ##
 ## Note: You can define startup screen by choosing screen from the list above.
 ##
-startup_screen = media_library
+startup_screen = playlist
 #
 ##
 ## Note: You can define startup slave screen by choosing screen from the list
@@ -511,46 +517,16 @@ external_editor = vim
 ## transparent background.
 #
 colors_enabled = yes
-
 empty_tag_color = default
-
 header_window_color = cyan
-
 volume_color = green:b
-
 state_line_color = blue:b
-
 state_flags_color = green:b
-
 main_window_color = default
-
 statusbar_color = yellow
-
 statusbar_time_color = green:b
-
 player_state_color = green:b
-
 alternative_ui_separator_color = blue:b
-
 window_border_color = blue
-
 active_window_border = blue
-
-#uncomment both statement's below if you want to display the albumart
-
 main_window_highlight_color = "99"
-
-#progressbar_look = "▁▁▁"
-progressbar_color = "default"
-progressbar_elapsed_color = "blue"
-
-song_list_format = " {%t}|{%f} {$R%a} {$R%l}"
-song_status_format = " $6%a  $7%t  $5%b "
-
-now_playing_prefix = "$b$(blue)▶ "
-now_playing_suffix = " $(end)$/b"
-
-#song_columns_list_format = "(8f)[black]{l}  (32)[red]{a} (42)[yellow]{t|f} (18)[magenta]{b}"
-
-#color1 = "white"
-#color2 = "black"

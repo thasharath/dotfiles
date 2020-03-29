@@ -20,7 +20,9 @@ export ZSH="/home/thasharath/.oh-my-zsh"
 #ZSH_THEME="agnoster"
 #ZSH_THEME="powerlevel10k/powerlevel10k"
 #PROMPT='%(?.%F{green}√.%F{red}?%?)%f %B%F{240}%1~%f%b %# '
-ZSH_THEME="2custom"
+# ZSH_THEME="1custom"
+# ZSH_THEME="2custom"
+ZSH_THEME="oxide"
 
 #PROMPT="%B%F{yellow} [%f%b%B%F{red}%n%f%b%B%F{yellow}@%f%b%B%F{red}%m%f%b%B%F{yellow}]%f%b%B %b%B%F{blue}%~%f%b
 #%B%F{green}$%f%b%B %b"

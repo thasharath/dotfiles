@@ -1,4 +1,4 @@
-ctrl + Escape
+super + Escape
 	notify-send -t 100 "Wait" && systemmonitor
 
 ## MPD controls
