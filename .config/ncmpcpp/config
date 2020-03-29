@@ -111,7 +111,7 @@ visualizer_color = 212
  highlighting will be disabled
 ## (0 = always on).
 ##
-playlist_disable_highlight_delay = 5
+playlist_disable_highlight_delay = 3
 #
 ## Defines how long messages are supposed to be visible.
 ##
@@ -266,7 +266,7 @@ selected_item_suffix = $9
 ##   available.
 ##
 #
-song_columns_list_format = (30)[]{a} (6f)[]{NE} (35)[]{t|f:Title} (40)[]{b} (7f)[]{l}
+song_columns_list_format = (6f)[]{NE} (35)[]{t|f:Title} (30)[]{a} (40)[]{b} (7f)[]{l}
 #
 ##### various settings #####
 #
@@ -322,7 +322,7 @@ seek_time = 10
 ## part of progressbar.
 ##
 #progressbar_look "▃▃▃"
-progressbar_look = "▃__"
+progressbar_look = "▃▃_"
 progressbar_color = "default"
 progressbar_elapsed_color = "blue"
 #
