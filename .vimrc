@@ -33,8 +33,7 @@ syntax enable
 " turn on this option as well
 set background=dark
 
-" Uncomment the following to have Vim jump to the last position when
-" reopening a file
+" jump to the last position when reopening a file
 if has("autocmd")
   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
@@ -48,13 +47,9 @@ endif
 " The following are commented out as they cause vim to behave a lot
 " differently from regular Vi. They are highly recommended though.
 "set showcmd		" Show (partial) command in status line.
-set showmatch		" Show matching brackets.
-set ignorecase		" Do case insensitive matching
 "set smartcase		" Do smart case matching
-set incsearch		" Incremental search
 "set autowrite		" Automatically save before commands like :next and :make
 "set hidden		" Hide buffers when they are abandoned
-set mouse=a		" Enable mouse usage (all modes)
 " Source a global configuration file if available
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
@@ -62,26 +57,23 @@ endif
 
 colorscheme dracula
 
+filetype indent on      " load filetype-specific indent files
 set wildmode=longest,list,full
 set bg=dark
 set number
-set relativenumber              " show line number
+set relativenumber	" show line number
 set showcmd             " show command in bottom bar
+set showmatch		" Show matching brackets.
+set ignorecase		" Do case insensitive matching
+set incsearch		" Incremental search
+set mouse=a		" Enable mouse usage (all modes)
 set cursorline          " highlight current line
-filetype indent on      " load filetype-specific indent files
 set wildmenu            " visual autocomplete for command menu
 set hlsearch            " highlight matches
+set termguicolors
+set spelllang=en_gb spell
+
 nnoremap <leader><space> :nohlsearch<CR>  " turn off search highlight
-
-execute pathogen#infect()
-
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = ' '
-let g:airline#extensions#tabline#left_alt_sep = '|'
-let g:airline#extensions#tabline#formatter = 'default'
-let g:airline_powerline_fonts = 1
-set t_Co=256
-let g:airline_theme='dracula'
 
 " Save file as sudo on files that require root permission
 cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
@@ -89,15 +81,62 @@ cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
 " Automatically deletes all trailing whitespace on save.
 autocmd BufWritePre * %s/\s\+$//e
 
-" Run xrdb whenever Xdefaults or Xresources are updated.
+" Autorun commands for specific files
 autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
 autocmd BufWritePost /home/thasharath/Applications/st-master/* !sudo make install
+autocmd BufWritePost /home/thasharath/Applications/dmenu-4.9/* !sudo make install
 
-inoremap ii <Esc>
-
-let g:livepreview_previewer = 'zathura'
-
-"copy to clipboard
-" vnoremap <C-c> :!xclip -f -sel clip <CR>
+"Copy to clipboard
 map <C-c> "+y
-" map <C-v> "+P
+
+"""  Plugins
+call plug#begin('~/.vim/plugins')
+
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'tpope/vim-commentary'
+Plug 'valloric/youcompleteme'
+Plug 'scrooloose/nerdtree'
+Plug 'altercation/vim-colors-solarized'
+Plug 'junegunn/fzf'
+Plug 'unblevable/quick-scope'
+Plug 'itchyny/lightline.vim'
+Plug 'sheerun/vim-polyglot'
+
+call plug#end()
+
+"Hexokinas colour preview
+let g:Hexokinase_highlighters = [ 'backgroundfull' ]
+highlight Pmenu ctermfg=15 ctermbg=0 guifg=#ffffff guibg=#000000
+
+" NERD tree
+" autocmd vimenter * NERDTree 		"Autorun NERD tree while opening
+" autocmd StdinReadPre * let s:std_in=1	"Open nerd tree on new document
+" autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif 	"Open nerd tree on new document
+let NERDTreeShowHidden=1
+
+"YouCompleteMe
+let g:ycm_confirm_extra_conf = 0	"Ask for confirmation
+let g:ycm_disable_for_files_larger_than_kb = 0
+
+""Quick Scope
+"highlight QuickScopePrimary guifg='#3cff07' gui=underline ctermfg=155 cterm=underline
+"highlight QuickScopeSecondary guifg='#00ffb7' gui=underline ctermfg=81 cterm=underline
+
+"Lightline
+set laststatus=2
+let g:lightline = {
+      \ 'colorscheme': 'dracula',
+      \ 'component_function': {
+      \   'fileformat': 'LightlineFileformat',
+      \   'filetype': 'LightlineFiletype',
+      \ },
+      \ }
+
+function! LightlineFileformat()
+  return winwidth(0) > 70 ? &fileformat : ''
+endfunction
+
+function! LightlineFiletype()
+  return winwidth(0) > 70 ? (&filetype !=# '' ? &filetype : 'no ft') : ''
+endfunction

@@ -1,3 +1,4 @@
  #!/bin/bash
 
- xsel | buku -a
+buku -a $(xclip -o)
+notify-send --icon=bookmark "Bookmark Added" "$(xclip -o)"

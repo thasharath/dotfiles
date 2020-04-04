@@ -38,3 +38,7 @@ super + b
 	/home/thasharath/.scripts/delete-history
 super + l
 	/home/thasharath/.scripts/open-link
+super + o
+	/home/thasharath/.scripts/bookmark
+super + a
+	/home/thasharath/.scripts/buku

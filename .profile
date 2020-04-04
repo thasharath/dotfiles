@@ -32,6 +32,8 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 PATH="/usr/games:$PATH"
+export PATH=$PATH:/usr/local/go/bin
+
 
 # MPD daemon start (if no other user instance exists)
 [ ! -s ~/.config/mpd/pid ] && mpd
