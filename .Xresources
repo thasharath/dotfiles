@@ -60,7 +60,7 @@ URxvt.tabbed.tab-numbers: false
 
 ! Dracula Xresources palette
 *.foreground: #F8F8F2
-URxvt.background: [97]#282A36
+URxvt.background: [95]#282A36
 st.background: #282A36
 *.cursorColor: magenta
 *.color0:     #000000
@@ -276,7 +276,7 @@ st.background: #282A36
 /* !*.colorIT: */
 /* !*.colorUL: */
 
-st.alpha: 	0.97
+st.alpha: 	0.95
 st.font: 	Source Code Pro-11
 /* st.bold_font:	0 */
 st.termname:	xterm-256color
