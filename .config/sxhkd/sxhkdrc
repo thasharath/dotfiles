@@ -35,7 +35,7 @@ super + f
 super + Return
 	st
 super + b
-	/home/thasharath/.scripts/delete-history
+	chromium
 super + l
 	/home/thasharath/.scripts/open-link
 super + o

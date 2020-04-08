@@ -1,0 +1,27 @@
+[Desktop Action Minimize]
+Exec=transmission-qt --minimized
+Name=Start Transmission Minimized
+
+[Desktop Entry]
+Actions=Minimize;
+Categories=Network;FileTransfer;P2P;Qt;
+Comment[en_GB]=Download and share files over BitTorrent
+Comment=Download and share files over BitTorrent
+Exec=transmission-qt %U
+GenericName[en_GB]=BitTorrent Client
+GenericName=BitTorrent Client
+Hidden=true
+Icon=transmission
+MimeType=application/x-bittorrent;
+Name[en_GB]=Qtransmission Bittorrent Client
+Name=Qtransmission Bittorrent Client
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-AppInstall-Keywords=torrent
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

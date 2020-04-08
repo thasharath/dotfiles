@@ -1,3 +1,0 @@
-#!/bin/sh
-
-rm -f /home/thasharath/.config/chromium/Default/History /home/thasharath/.config/chromium/Default/History-journal '/home/thasharath/.config/chromium/Default/History Provider Cache' '/home/thasharath/.config/chromium/Default/Cookies' '/home/thasharath/.config/chromium/Default/Cookies-journal' '/home/thasharath/.config/chromium/Default/Last Session\' '/home/thasharath/.config/chromium/Default/Top Sites' '/home/thasharath/.config/chromium/Default/Top Sites-journal' '/home/thasharath/.config/chromium/Default/Visited Links' '/home/thasharath/.config/chromium/Default/Web Data' '/home/thasharath/.config/chromium/Default/Web Data-journal' && chromium &

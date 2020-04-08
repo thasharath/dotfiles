@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=sxhkd
+GenericName=Simple X Hot Key Daemon
+Comment=Some description about your script
+Exec=sxhkd &
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
