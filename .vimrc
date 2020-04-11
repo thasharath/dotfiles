@@ -88,7 +88,7 @@ autocmd BufWritePost /home/thasharath/Applications/dmenu-4.9/* !sudo make instal
 
 "Copy to clipboard
 map <C-c> "+y
-
+map <C-p> "+P
 """  Plugins
 call plug#begin('~/.vim/plugins')
 

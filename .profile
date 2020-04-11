@@ -9,7 +9,6 @@
 #umask 022
 
 export EDITOR="vim"
-export TERM="st"
 export BROWSER="firefox"
 export READER="zathura"
 export FILE="dolphin"

@@ -204,7 +204,7 @@ alternative_header_second_line_format ="$(blue)%b - %A - %y$(end)"
 #
 #current_item_inactive_column_suffix = $/r$(end)
 #
-now_playing_prefix = "$b$(blue)$(red)▶️$(end) "
+now_playing_prefix = "$b$(blue)$(red)➤$(end) "
 #
 now_playing_suffix = "$/b$(end)"
 #

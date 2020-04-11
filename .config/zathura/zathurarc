@@ -1,12 +1,11 @@
 set page-padding 2
 set selection-clipboard clipboard
-set adjust-open bestfit
 set scroll-full-overlap 0.05
 set window-title-basename true
-set guioptions v
+set guioptions vs
 
-map [normal]     	<Return> toggle_fullscreen
-map [fullscreen] 	<Return> toggle_fullscreen
+map [normal]     	f toggle_fullscreen
+map [fullscreen] 	f toggle_fullscreen
 map [normal]		i recolor
 map [fullscreen]	i recolor
 map p print

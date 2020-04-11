@@ -33,7 +33,7 @@ ctrl + shift + Print
 super + f
 	dolphin
 super + Return
-	st
+	alacritty
 super + b
 	chromium
 super + l

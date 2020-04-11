@@ -89,12 +89,13 @@ export LANG=en_GB.utf-8
 # export ARCHFLAGS="-arch x86_64"
 
 # Aliases
-alias rm='rm -I --preserve-root'
+alias rm='rm -i'
 alias jackett='/home/thasharath/Applications/Jackett/jackett'
 alias radarr='sudo mono --debug /home/thasharath/Applications/Radarr/Radarr.exe'
-alias la='ls -a'
+alias la='ls -A'
 alias l='ls -lh'
 alias ll='ls -lah'
+alias ..='cd ..'
 alias mv='mv -i'
 alias mkdir='mkdir -pv'
 alias config='/usr/bin/git --git-dir=/home/thasharath/.cfg/ --work-tree=/home/thasharath'
@@ -108,8 +109,10 @@ alias ytd='youtube-dl -f 136+140  --write-sub'
 alias weather='curl wttr.in'
 alias b='buku --suggest'
 
-export EDITOR=/usr/bin/vim
-export BROWSER=/usr/bin/chromium
+export EDITOR=vim
+export BROWSER=chromium
+export VISUAL=vim
+export HISTCONTROL=ignoreboth
 
 # Keybindings
 bindkey '^[[P'	delete-char		#delete
