@@ -183,7 +183,7 @@ $R - begin right alignment
 ## Note: colors can be nested.
 ##
 #
-song_list_format = " {%t ⚫️ %a}|{%f ⚫️ %A} $R%b | %l"
+song_list_format = " {%t  %a}|{%f  %A} $R%b | %l"
 #
 song_status_format = " $6%a  $7%t  $5%b "
 #
@@ -196,15 +196,15 @@ alternative_header_second_line_format ="$(blue)%b - %A - %y$(end)"
 #
  # alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%D}
 #
-#current_item_prefix = $(yellow)$r
+current_item_prefix = "$(99)$r"
 #
-#current_item_suffix = $/r$(end)
+current_item_suffix = "$/r$(end)"
 #
 #current_item_inactive_column_prefix = $(white)$r
 #
 #current_item_inactive_column_suffix = $/r$(end)
 #
-now_playing_prefix = "$b$(blue)$(red)➤$(end) "
+now_playing_prefix = "$b$(blue)$(red)$(end) "
 #
 now_playing_suffix = "$/b$(end)"
 #
@@ -266,7 +266,7 @@ selected_item_suffix = $9
 ##   available.
 ##
 #
-song_columns_list_format = (6f)[]{NE} (35)[]{t|f:Title} (30)[]{a} (40)[]{b} (7f)[]{l}
+song_columns_list_format = (5f)[]{NE} (35)[]{t|f:Title} (30)[]{a} (40)[]{b} (5f)[]{l}
 #
 ##### various settings #####
 #
@@ -340,7 +340,7 @@ user_interface = alternative
 ##
 media_library_primary_tag = album_artist
 #
-media_library_albums_split_by_date = yes
+media_library_albums_split_by_date = no
 
 #
 ## Available values: wrapped, normal.
@@ -529,4 +529,4 @@ player_state_color = green:b
 alternative_ui_separator_color = blue:b
 window_border_color = blue
 active_window_border = blue
-main_window_highlight_color = "99"
+# main_window_highlight_color = "99"

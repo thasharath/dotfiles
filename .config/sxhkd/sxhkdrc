@@ -35,7 +35,7 @@ super + f
 super + Return
 	alacritty
 super + b
-	chromium
+	waterfox-current
 super + l
 	/home/thasharath/.scripts/open-link
 super + o
