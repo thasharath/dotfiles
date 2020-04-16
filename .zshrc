@@ -108,7 +108,7 @@ alias xconfig='vim ~/.Xresources'
 alias ytd='youtube-dl -f 136+140  --write-sub'
 alias weather='curl wttr.in'
 alias b='buku --suggest'
-
+alias smloader='cd /home/thasharath/Applications/SMLoadr/ && ./SMLoadr-linux-x64'
 export EDITOR=vim
 export BROWSER=chromium
 export VISUAL=vim

@@ -1,4 +1,4 @@
 #!/bin/sh
 
 notify-send -t 1000 --icon=internet-archive "Opening Link" "$(xclip -o)";
-st -g 170x100 -e lynx  "$(xclip -o)"
+alacritty -e lynx  "$(xclip -o)"

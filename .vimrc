@@ -65,13 +65,24 @@ set relativenumber	" show line number
 set showcmd             " show command in bottom bar
 set showmatch		" Show matching brackets.
 set ignorecase		" Do case insensitive matching
+set smartcase
 set incsearch		" Incremental search
 set mouse=a		" Enable mouse usage (all modes)
 set cursorline          " highlight current line
 set wildmenu            " visual autocomplete for command menu
 set hlsearch            " highlight matches
 set termguicolors
-set spelllang=en_gb spell
+setlocal spell spelllang=en_gb
+
+"Vertically center document when entering insert mode
+autocmd InsertEnter * norm zz
+
+
+" Alias replace all to S
+nnoremap S :%s//gIc<Left><Left><Left><Left>
+
+" " Enable spell checking, s for spell check
+" map <leader>s :setlocal spell! spelllang=en_au<CR>
 
 nnoremap <leader><space> :nohlsearch<CR>  " turn off search highlight
 
@@ -102,6 +113,7 @@ Plug 'junegunn/fzf'
 Plug 'unblevable/quick-scope'
 Plug 'itchyny/lightline.vim'
 Plug 'sheerun/vim-polyglot'
+Plug 'yggdroot/indentline'
 
 call plug#end()
 
@@ -140,3 +152,6 @@ endfunction
 function! LightlineFiletype()
   return winwidth(0) > 70 ? (&filetype !=# '' ? &filetype : 'no ft') : ''
 endfunction
+
+"Indent Line
+let g:indentLine_char_list = ['|', '¦', '┆', '┊']
