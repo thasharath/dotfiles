@@ -102,19 +102,20 @@ alias config='/usr/bin/git --git-dir=/home/thasharath/.cfg/ --work-tree=/home/th
 alias reload='source ~/.zshrc'
 alias myip='curl http://ipecho.net/plain; echo'
 alias distro='cat /etc/*-release'
-alias zshrc='vim ~/.zshrc'
-alias vimrc='vim ~/.vimrc'
+alias zshrc='nvim ~/.zshrc'
+alias vimrc='nvim ~/.config/nvim/init.vim'
 alias xconfig='vim ~/.Xresources'
 alias ytd='youtube-dl -f 136+140  --write-sub'
 alias weather='curl wttr.in'
 alias b='buku --suggest'
 alias smloader='cd /home/thasharath/Applications/SMLoadr/ && ./SMLoadr-linux-x64'
-export EDITOR=vim
+alias vim='nvim'
+export EDITOR=nvim
 export BROWSER=chromium
-export VISUAL=vim
+export VISUAL=nvim
 export HISTCONTROL=ignoreboth
 
 # Keybindings
 bindkey '^[[P'	delete-char		#delete
 bindkey '^[[H'	beginning-of-line	#home
-bindkey '^[[4~'	end-of-line		#end
+bindkey '^[[F'	end-of-line		#end

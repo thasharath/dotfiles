@@ -94,8 +94,8 @@ autocmd BufWritePre * %s/\s\+$//e
 
 " Autorun commands for specific files
 autocmd BufWritePost *Xresources,*Xdefaults !xrdb %
-autocmd BufWritePost /home/thasharath/Applications/st-master/* !sudo make install
-autocmd BufWritePost /home/thasharath/Applications/dmenu-4.9/* !sudo make install
+autocmd BufWritePost /home/thasharath/Applications/st/* !sudo make install
+autocmd BufWritePost /home/thasharath/Applications/dmenu/* !sudo make install
 
 "Copy to clipboard
 map <C-c> "+y
@@ -111,7 +111,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'altercation/vim-colors-solarized'
 Plug 'junegunn/fzf'
 Plug 'unblevable/quick-scope'
-Plug 'itchyny/lightline.vim'
+" Plug 'itchyny/lightline.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'yggdroot/indentline'
 
