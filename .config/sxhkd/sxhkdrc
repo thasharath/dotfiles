@@ -42,3 +42,6 @@ super + o
 	/home/thasharath/.scripts/bookmark
 super + a
 	/home/thasharath/.scripts/buku
+
+alt + ctrl + Escape
+	xkill

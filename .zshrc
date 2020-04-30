@@ -71,6 +71,7 @@ plugins=(
 	command-not-found
 	copydir
 	extract
+	rand-quote
 	safe-paste
 	sudo
 	)
@@ -119,3 +120,5 @@ export HISTCONTROL=ignoreboth
 bindkey '^[[P'	delete-char		#delete
 bindkey '^[[H'	beginning-of-line	#home
 bindkey '^[[F'	end-of-line		#end
+
+quote
