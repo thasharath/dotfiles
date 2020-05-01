@@ -121,5 +121,4 @@ bindkey '^[[P'	delete-char		#delete
 bindkey '^[[H'	beginning-of-line	#home
 bindkey '^[[F'	end-of-line		#end
 
-# fortune
-# quote
+fortune
